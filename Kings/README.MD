@@ -1,4 +1,4 @@
-** This folder contains the data used to create networks between kings and deities
+## This folder contains the data used to create networks between kings and deities
 
 <b>severalIstar_text:</b> The text file from which we extracted all connections between kings and deities within a window of ten words from each other.
 
