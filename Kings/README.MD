@@ -4,6 +4,8 @@
 
 <b>severalIstar_10.tsv:</b> The file produced by Pmizer on the connections of the wanted words.
 
+<b>severalIstar_10.csv:</b> The connections between kings and deities with the bigram frequencies extracted from the .tsv file.
+
 <b>wanted_severalIstar:</b> A list of the names of kings and deities extracted. 
 
 <b>texts:</b> A list of the texts used.
