@@ -12,7 +12,7 @@ The folders in this repository contain the following:
 
 <b>Networks:</b> The gexf files used to create the graphs in Gephi. The Gephi project with the original graphs from which the pictures in the folder *Visualization* have been extracted/modified.
 
-<b>lists:</b> Lists used for preprocessing of the data. Frequency lists of the words analyzed.
+<b>Lists:</b> Lists used for preprocessing of the data. Frequency lists of the words analyzed.
 
 <b>OraccData:</b> The words extacted from the JSON files available from Oracc.
 
