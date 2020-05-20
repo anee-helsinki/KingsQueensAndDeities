@@ -4,9 +4,17 @@
 
 <b>genres:</b> list of the different text genres in the dataset used with their frequencies.
 
+LISTS USED FOR STANDARDIZING LEMMATISATION:
+
 <b>godsToChange:</b> List used for standardizing the various way of lemmatising divine names in Oracc projects.
 
 <b>placesToChange:</b> List used for standardizing the various way of lemmatising place names in Oracc projects.
+
+<b>\<project\>Kings:</b> Lists of the kings whose texts in the project in question are considered.
+  
+<b>\<project\>Kings_ToChange:</b> Lists according to which the kings' names in the project in question have been standardized.
+  
+FREQUENCY LISTS:
 
 <b>godsFreqs:</b> List of all the divine names (with frequency of 5 or more) with their frequencies in the dataset.
 
@@ -16,6 +24,4 @@
 
 <b>wordFreqs:</b> List of all the words in the dataset with frequencies.
 
-<b>\<project\>Kings:</b> Lists of the kings whose texts in the project in question are considered.
-  
-<b><project>Kings_ToChange:</b> Lists according to which the kings' names in the project in question have been standardized.
+
