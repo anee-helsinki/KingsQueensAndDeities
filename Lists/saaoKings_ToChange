@@ -1,0 +1,16 @@
+#Different ways of lemmatising kings' names have been normalised according to this list. The preferred normalization is on the left side of the equals signs and the variants on the right side.
+
+Adad-nerari_III_RN == Adad-nerari,Adad-nerari_III
+Ashurbanipal_RN == Aššur-bani-apli
+Ashurnasirpal_II_RN == Aššur-naṣir-apli,Aššur-naṣir-apli_II
+Aššur-etel-ilāni_RN == Aššur-etel-ilani
+Esarhaddon_RN == Aššur-ahu-iddina
+Šamši-Adad_V_RN == Šamši-Adad,Šamši-Adad_V
+Sargon_II_RN == Šarru-ken,Šarru-kenu,Šarru-ukin_II
+Sennacherib_RN == Sin-ahhe-eriba
+Shalmaneser_III_RN == Salmanu-ašared_III,Salmanu-ašared
+Shalmaneser_IV_RN == Salmanu-ašared_IV
+Shalmaneser_V_RN == Salmanu-ašared_V
+Sîn-šarru-iškun_RN == Sin-šarru-iškun
+Tiglath-pileser_III_RN == Tukulti-apil-Ešarra,Tukulti-apil-Ešarra_III
+Tukulti-Ninurta_II_RN == Tukulti-Inurta_II
