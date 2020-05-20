@@ -1,0 +1,64 @@
+#In our analysis, we treat all Ištars, such as Ištar of Nineveh and Ištar of Arbail (Arbela), as independent entities from the deity designated only as “Ištar." In order to find the various Ištars with designations, we looked at the words after Ištar and in the following cases combined the words to one that can by automated methods be considered one word instead of several. We left out the prepositions and descriptive words, thus standardizing the various different way of lemmatising the same deity. The left word combination is the one found in the text and on the right after the arrows is the standardized combination.
+
+	
+Ištar Arbail	>>	Ištar_Arbail		
+Ištar bēltu Arbail	>>	Ištar_Arbail
+Ištar wāšibu Arbail	>>	Ištar_Arbail
+Ištar āšibu Arbail	>>	Ištar_Arbail
+Ištar ša Arbail	>>	Ištar_Arbail
+Ištar ša qerbu Arbail	>>	Ištar_Arbail
+Issar-ša-Arbail	>>	Ištar_Arbail
+
+
+Ištar Ninua	>>	Ištar_Nineveh		
+Ištar bēltu Ninua	>>	Ištar_Nineveh	
+Ištar wāšibu Ninua	>>	Ištar_Nineveh	
+Ištar āšibu Ninua	>>	Ištar_Nineveh	
+Ištar āšibu _ Ninua	>>	Ištar_Nineveh	
+Ištar ša Ninua	>>	Ištar_Nineveh
+Ištar šarratu Ninua	>>	Ištar_Nineveh
+Ištar bēltu ša qerbu Ninua	>>	Ištar_Nineveh
+Issar-ša-Ninua	>>	Ištar_Nineveh
+
+
+Ištar Aššuraya	>>	Ištar-Aššuraya
+Ištar Aššuru	>>	Ištar-Aššuraya
+Issar-Aššuritu	>>	Ištar-Aššuraya
+
+
+Issar-bit-Kidmuri	>>	Ištar-Bit-Kidmuri
+Ištar ša Bit-Kidmuri	>>	Ištar-Bit-Kidmuri
+Ištar bītu&&Kidmuri	>>	Ištar-Bit-Kidmuri
+Ištar ša bītu&&Kidmuri	>>	Ištar-Bit-Kidmuri
+
+
+Ištar Huzirina	>>	Ištar-Huzirina
+Ištar ša Huzirina	>>	Ištar-Huzirina
+Ištar āšibu Huzirina	>>	Ištar-Huzirina
+
+
+Ištar Akkad	>>	Ištar-Akkad
+Ištar Babili	>>	Ištar-Babili
+Ištar Bit-Eqi	>>	Ištar-Bit-Eqi
+Ištar ša Bit-Eqi	>>	Ištar-Bit-Eqi
+Ištar Elamtu	>>	IštarElamtu
+Ištar Uruk	>>	Ištar-Uruk
+Ištar Šarrat-šame	>>	Ištar-Šarrat-šame
+Issar-anze	>>	Ištar-anze
+Issar-neše	>>	Ištar-neše
+Issar-nimru	>>	Ištar-nimru
+Issar-niphu	>>	Ištar-niphu
+Issar-niru	>>	Ištar-niru
+Issar-raṭi	>>	Ištar-raṭi
+Issar-ṣalmu	>>	Ištar-ṣalmu
+Issar-tašme	>>	Ištar-tašme
+Ištar ša Kar-Tukulti-Ninurta	>>	Ištar-Kar-Tukulti-Ninurta
+Ištar ša Muṣur	Ištar-Muṣur	>>
+Ištar ša Pinas	Ištar-Pinas	>>
+Issar-ša-Tuyat	Ištar-Tuyat	>>
+Ištar ša bītu&&mayyālu	>>	Ištar-bītu&&mayyālu
+Ištar ša šamû	Ištar-šamû	>>
+Issar-ša-šame	Ištar-šamû	>>
+Issar-ša-šibirri	>>	Ištar-šibirri
+Ištar wāšibu Ekur	>>	Ištar-Ekur
+
