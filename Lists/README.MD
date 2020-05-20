@@ -16,6 +16,6 @@
 
 <b>wordFreqs:</b> List of all the words in the dataset with frequencies.
 
-<b><project>Kings:</b> Lists of the kings whose texts in the project in question are considered.
+<b>\<project\>Kings:</b> Lists of the kings whose texts in the project in question are considered.
   
 <b><project>Kings_ToChange:</b> Lists according to which the kings' names in the project in question have been standardized.
