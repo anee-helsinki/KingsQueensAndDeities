@@ -1,6 +1,6 @@
 ## Data used to create networks of queens and deities; and related lists
 
-<b>Genre_Queens.csv:</b> Genre distribution of the texts used for network analysis (Texts_Queens_Deities_forSNA.csv).
+<b>Genre_Queens.csv:</b> Genre distribution of the queen texts used for network analysis (Texts_Queens_Deities_forSNA.csv).
 
 <b>Queens_SeveralIstar.csv:</b> A list of pairs of queens and deities with the number of times they were mentioned together in Texts_Queens_Deities_forSNA.csv. This file was used to create the network of queens and deities.
 
