@@ -11,3 +11,13 @@
 <b>wanted_severalIstar:</b> A list of the names of kings and deities extracted. 
 
 <b>Texts_Kings.tsv:</b> A list of the texts used, including some metadata.
+
+<b>FREQUENCY LISTS:</b>
+
+<b>Frequencies_Deities:</b> List of all deities and their frequencies in the dataset on kings.
+
+<b>Frequencies_Kings:</b> List of all kings and their frequencies in the dataset.
+
+<b>Frequencies_Kings_Deities:</b> Shows how many times kings appear with a deity in a window of 10 words in the dataset.
+
+<b>Frequencies_Words:</b> List of all words and their frequencies in the dataset on kings.
