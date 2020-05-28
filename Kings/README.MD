@@ -10,7 +10,7 @@
 
 <b>wanted_severalIstar:</b> A list of the names of kings and deities extracted. 
 
-<b>Texts_Kings.tsv:</b> A list of the texts used, including some metadata.
+<b>Texts_Kings.tsv:</b> A list of texts which refer to at least one king and one deity, including some metadata.
 
 <b>FREQUENCY LISTS:</b>
 
