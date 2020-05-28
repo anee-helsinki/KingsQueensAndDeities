@@ -14,7 +14,7 @@
 
 <b>FREQUENCY LISTS:</b>
 
-<b>Frequencies_Deities:</b> List of all deities and their frequencies in the dataset on kings.
+<b>Frequencies_Deities_K:</b> List of all deities and their frequencies in the dataset on kings.
 
 <b>Frequencies_Kings:</b> List of all kings and their frequencies in the dataset.
 
