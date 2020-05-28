@@ -13,15 +13,3 @@ LISTS USED FOR STANDARDIZING LEMMATISATION:
 <b>\<project\>Kings:</b> Lists of the kings whose texts in the project in question are considered.
   
 <b>\<project\>Kings_ToChange:</b> Lists according to which the kings' names in the project in question have been standardized.
-  
-FREQUENCY LISTS:
-
-<b>godsFreqs:</b> List of all the divine names (with frequency of 5 or more) with their frequencies in the dataset.
-
-<b>kingFreqs:</b> List of all the kings' names with their frequencies in the dataset.
-
-<b>kingsWithDeitiesFreqs:</b> List of all the kings' names and how many times they in the dataset appear with a deity in a window of 10.
-
-<b>wordFreqs:</b> List of all the words in the dataset with frequencies.
-
-
