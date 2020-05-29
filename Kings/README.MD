@@ -14,10 +14,10 @@
 
 <b>FREQUENCY LISTS:</b>
 
-<b>Frequencies_Deities_K:</b> List of all deities and their frequencies in the dataset on kings.
+<b>Frequencies_Deities_K:</b> List of all deities and their frequencies in the 816 texts which refer to at least one king and one deity.
 
-<b>Frequencies_Kings:</b> List of all kings and their frequencies in the dataset.
+<b>Frequencies_Kings:</b> List of all kings and their frequencies in the 816 texts which refer to at least one king and one deity.
 
-<b>Frequencies_Kings_Deities:</b> Shows how many times kings appear with a deity in a window of 10 words in the dataset.
+<b>Frequencies_Kings_Deities:</b> Shows the weighted degree of kings, i.e. how many times kings co-occur with a deity in a window of 10 words in the dataset of 816 texts referring to at least one king and one deity.
 
-<b>Frequencies_Words:</b> List of all words and their frequencies in the dataset on kings.
+<b>Frequencies_Words:</b> List of all words and their frequencies in the 816 texts which refer to at least one king and one deity.
