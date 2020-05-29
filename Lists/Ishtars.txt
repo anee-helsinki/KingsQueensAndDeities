@@ -1,4 +1,4 @@
-#In our analysis, we treat different manifestations of Ištar, such as Ištar of Nineveh and Ištar of Arbela, as independent entities from the deity designated only as "Ištar." However, Oracc metadata does not differentiate between Ištars, and we had to develop a workflow to separate them. We discerned different Ištars on the basis of words occurring after the lemma "Ištar" in the dataset. The following list shows which lemma combinations were grouped together to designate different Ištars. We left out prepositions and certain descriptive words and thus created one standardized lemma for each Ištar. The lemma combination on the left is the one found in the text, followed by the standardized combination after the arrows.
+#In our analysis, we treat different manifestations of Ištar, such as Ištar of Nineveh and Ištar of Arbela, as independent entities from the deity designated only as "Ištar." However, Oracc metadata does not differentiate between Ištars, and we had to develop a workflow to separate them. We identified different Ištars on the basis of words occurring after the lemma "Ištar" in the dataset. The following list shows which lemma combinations were grouped together to designate different Ištars. We left out prepositions and certain descriptive words and thus created one standardized lemma for each Ištar. The lemma combination on the left is the one found in the text, followed by the standardized combination after the arrows.
 
 	
 Ištar Arbail	>>	Ištar_Arbail		
@@ -41,7 +41,7 @@ Ištar Akkad	>>	Ištar-Akkad
 Ištar Babili	>>	Ištar-Babili
 Ištar Bit-Eqi	>>	Ištar-Bit-Eqi
 Ištar ša Bit-Eqi	>>	Ištar-Bit-Eqi
-Ištar Elamtu	>>	IštarElamtu
+Ištar Elamtu	>>	Ištar-Elamtu
 Ištar Uruk	>>	Ištar-Uruk
 Ištar Šarrat-šame	>>	Ištar-Šarrat-šame
 Issar-anze	>>	Ištar-anze
@@ -53,12 +53,12 @@ Issar-raṭi	>>	Ištar-raṭi
 Issar-ṣalmu	>>	Ištar-ṣalmu
 Issar-tašme	>>	Ištar-tašme
 Ištar ša Kar-Tukulti-Ninurta	>>	Ištar-Kar-Tukulti-Ninurta
-Ištar ša Muṣur	Ištar-Muṣur	>>
-Ištar ša Pinas	Ištar-Pinas	>>
-Issar-ša-Tuyat	Ištar-Tuyat	>>
+Ištar ša Muṣur	>>	Ištar-Muṣur
+Ištar ša Pinas	>>	Ištar-Pinas
+Issar-ša-Tuyat	>>	Ištar-Tuyat
 Ištar ša bītu&&mayyālu	>>	Ištar-bītu&&mayyālu
-Ištar ša šamû	Ištar-šamû	>>
-Issar-ša-šame	Ištar-šamû	>>
+Ištar ša šamû	>>	Ištar-šamû
+Issar-ša-šame	>>	Ištar-šamû
 Issar-ša-šibirri	>>	Ištar-šibirri
 Ištar wāšibu Ekur	>>	Ištar-Ekur
 
