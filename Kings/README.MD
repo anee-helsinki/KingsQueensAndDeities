@@ -4,7 +4,7 @@
 
 ~~<b>severalIstar_text:</b> The text file from which we extracted all connections between kings and deities within a window of ten words from each other.~~ The text file includes texts that have not been published yet and will only be added here when they have been published.
 
-<b>severalIstar_10.tsv:</b> The file produced by Pmizer (https://github.com/asahala/Pmizer) on the connections of the wanted words.
+<b>severalIstar_10.tsv:</b> The file produced with Pmizer (https://github.com/asahala/Pmizer) on the connections of the wanted words.
 
 <b>severalIstar_10.csv:</b> The connections between kings and deities with the bigram frequencies extracted from the .tsv file.
 
@@ -18,6 +18,10 @@
 
 <b>Frequencies_Kings:</b> List of all kings and their frequencies in the 816 texts which refer to at least one king and one deity.
 
-<b>Frequencies_Kings_Deities:</b> Shows the weighted degree of kings, i.e. how many times kings co-occur with a deity in a window of 10 words. The deities have to be attested five times or more in the dataset of 816 texts referring to at least one king and one deity.
-
 <b>Frequencies_Words:</b> List of all words and their frequencies in the 816 texts which refer to at least one king and one deity.
+
+<b>Frequencies_Kings_Deities:</b> Shows the weighted degree of kings, i.e. how many times each king co-occurs with a deity in a window of 10 words. The deities have to be attested five times or more in the dataset of 816 texts referring to at least one king and one deity.
+
+<b>Frequencies_Deities_Kings:</b> Shows the weighted degree of deities, i.e. how many times each deity co-occurs with a king in a window of 10 words. The deities have to be attested five times or more in the dataset of 816 texts referring to at least one king and one deity.
+
+
