@@ -14,4 +14,4 @@ LISTS USED FOR STANDARDIZING LEMMATISATION:
   
 <b>\<project\>Kings_ToChange:</b> Lists according to which the kings' names in the project in question have been standardized.
   
-<b>\<Goddess\>_texts:</b> Lists of texts, and their dating, where the goddesses in question appear with a king in the same document in our dataset of 816 texts which mention at least one king and one deity.
+<b>\<Goddess\>_texts:</b> Lists of texts, and their dating, where the goddesses in question (Gula, Mullissu, and Sherua) appear with a king in the same document in our dataset of 816 texts, which mention at least one king and one deity.
