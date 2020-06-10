@@ -1,5 +1,7 @@
 ## Graphs and the data used to create them
 
+See the folder Visualization for pdf images of our networks.
+
 The gexf files used to create the graphs in Gephi:
 <b>severalIstar_RoyalAndGods.gexf</b> with kings, queens, and deities.
 <b>severalIstar_KingsAndQueens.gexf</b> with all kings and all Queens combined to *Kings* and *Queens* respectively.
