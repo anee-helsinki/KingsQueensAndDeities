@@ -8,6 +8,8 @@ The gexf files used to create the graphs in Gephi:
 
 <b>KingsDeities_noNormalization.gephi: </b> Gephi project with non-normalized graphs of kings and deities, using window sizes of 5, 10, and 15 words.
 
+<b>RoyalAndDeities_noNormalization.gephi: </b> Gephi project with a non-normalized full graph of queens, kings, and deities.
+
 <b>RoyalAndDeity.gephi:</b> Gephi project with the normalized graphs from which the graphs in CaseStudy1/2/3.gephi were created.
 
 <b>CaseStudy1/2/3.gephi:</b> Networks which were created from RoyalAndDeity.gephi and analyzed in the case studies of the article. These graphs are available in the pdf format in the folder Visualizations.
