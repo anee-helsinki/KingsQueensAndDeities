@@ -14,6 +14,8 @@
 
 <b>Texts_Kings.tsv:</b> A list of texts which refer to at least one king and one deity, including some metadata.
 
+<b>textsToChange:</b> A list of duplicate texts omitted from analysis
+
 <b>FREQUENCY LISTS:</b>
 
 <b>Frequencies_Deities_K:</b> List of all deities and their frequencies in the 816 texts which refer to at least one king and one deity.
