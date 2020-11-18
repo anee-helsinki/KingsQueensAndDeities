@@ -4,7 +4,7 @@
 
 <b>NodeCodes.txt:</b> The codes given to kings (k), queens (q), gods (m), goddesses (f), groups of deities (g), and unknown (u). These codes are used for colouring the different types with different colours in Gephi graphs.
 
-LISTS USED FOR STANDARDIZING LEMMATISATION:
+<b>LISTS USED FOR STANDARDIZING LEMMATISATION:</b>
 
 <b>DivineNames_Standardization:</b> List used for standardizing the various way of lemmatising divine names in Oracc projects.
 
