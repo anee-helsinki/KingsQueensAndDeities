@@ -1,20 +1,20 @@
 ## This folder contains the data used to create networks between kings and deities
 
-<b>Duplicates:</b> A list of duplicate texts omitted from analysis
-
 <b>Collocates_Kings.csv:</b> The connections between kings and deities with the bigram frequencies extracted from the .tsv file.
 
 <b>Collocates_Kings.tsv:</b> The file produced with Pmizer (https://github.com/asahala/Pmizer) on the connections of the wanted words.
+
+<b>Duplicates:</b> A list of duplicate texts omitted from analysis
 
 <b>Genre_Kings.csv:</b> Genre distribution of the 816 texts which refer to at least one king and one deity.
 
 <b>RoyalDeitySNA_extractor.py:</b> The script used for starting Pmizer.
 
-<b>wantedAll:</b> A list of the names of kings and deities extracted. 
+<b>Texts_Kings.tsv:</b> A list of texts which refer to at least one king and one deity, including some metadata.
 
 <b>TextsAnalysed:</b> The text file from which we extracted all connections between kings and deities within a window of ten words from each other.
 
-<b>Texts_Kings.tsv:</b> A list of texts which refer to at least one king and one deity, including some metadata.
+<b>wantedKingsDeities:</b> A list of the names of kings and deities extracted. 
 
 <b>FREQUENCY LISTS:</b>
 
