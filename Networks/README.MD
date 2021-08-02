@@ -3,10 +3,9 @@
 See the folder Visualization for pdf images of our networks.
 
 The gexf files used to create the graphs in Gephi:
-
-<b>RoyalAndDeities.gexf</b> with kings, queens, and deities.
-<b>KingsAndQueens.gexf</b> with all kings and all Queens combined to *Kings* and *Queens* respectively.
-<b>notNormalised.gexf</b> with kings, queens, and deities without normalising the weights.
+- <b>RoyalAndDeities.gexf</b> with kings, queens, and deities.
+- <b>KingsAndQueens.gexf</b> with all kings and all Queens combined to *Kings* and *Queens* respectively.
+- <b>notNormalised.gexf</b> with kings, queens, and deities without normalising the weights.
 
 <b>KingsDeities_noNormalization.gephi: </b> Gephi project with non-normalized graphs of kings and deities, using window sizes of 5, 10, and 15 words.
 
