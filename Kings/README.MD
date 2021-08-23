@@ -6,7 +6,7 @@
 
 <b>Duplicates:</b> A list of duplicate texts omitted from analysis
 
-<b>Genre_Kings.csv:</b> Genre distribution of the 816 texts which refer to at least one king and one deity.
+<b>Genre_KingsTexts:</b> Genre distribution of the 576 texts which contain at least one king and one deity in a window of 10.
 
 <b>RoyalDeitySNA_extractor.py:</b> The script used for starting Pmizer.
 
