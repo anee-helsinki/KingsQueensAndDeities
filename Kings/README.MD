@@ -12,6 +12,8 @@
 
 <b>Texts_Kings.tsv:</b> A list of texts which refer to at least one king and one deity, including some metadata.
 
+<b>Texts_KingsInWindow:</b> A list of texts which contain at least one king and one deity in a window of 10, including some metadata.
+
 <b>TextsAnalysed:</b> The text file from which we extracted all connections between kings and deities within a window of ten words from each other.
 
 <b>wantedKingsDeities:</b> A list of the names of kings and deities extracted. 
