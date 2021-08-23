@@ -22,7 +22,7 @@
 
 <b>Frequencies_Deities_K:</b> List of all deities and their frequencies in the 576 texts which contain at least one king and one deity in a window of 10.
 
-<b>Frequencies_Kings:</b> List of all kings and their frequencies in the 816 texts which refer to at least one king and one deity.
+<b>Frequencies_Kings:</b> List of all kings and their frequencies in the 576 texts which contain at least one king and one deity in a window of 10.
 
 <b>Frequencies_Words:</b> List of all words and their frequencies in the 816 texts which refer to at least one king and one deity.
 
