@@ -26,8 +26,8 @@
 
 <b>Frequencies_Words:</b> List of all words and their frequencies in the 576 texts which contain at least one king and one deity in a window of 10.
 
-<b>Frequencies_Kings_Deities:</b> Shows the weighted degree of kings, i.e. how many times each king co-occurs with a deity in a window of 10 words. The deities have to be attested five times or more in the dataset of 816 texts referring to at least one king and one deity.
+<b>Frequencies_Kings_Deities:</b> Shows the weighted degree of kings, i.e. how many times each king co-occurs with a deity in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10.
 
-<b>Frequencies_Deities_Kings:</b> Shows the weighted degree of deities, i.e. how many times each deity co-occurs with a king in a window of 10 words. The deities have to be attested five times or more in the dataset of 816 texts referring to at least one king and one deity.
+<b>Frequencies_Deities_Kings:</b> Shows the weighted degree of deities, i.e. how many times each deity co-occurs with a king in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10.
 
 
