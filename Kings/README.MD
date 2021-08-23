@@ -14,13 +14,13 @@
 
 <b>Texts_KingsInWindow:</b> A list of texts which contain at least one king and one deity in a window of 10, including some metadata.
 
-<b>TextsAnalysed:</b> The text file from which we extracted all connections between kings and deities within a window of ten words from each other.
+<b>Texts_analysed:</b> The text file from which we extracted all connections between kings and deities within a window of ten words from each other.
 
 <b>wantedKingsDeities:</b> A list of the names of kings and deities extracted. 
 
 <b>FREQUENCY LISTS:</b>
 
-<b>Frequencies_Deities_K:</b> List of all deities and their frequencies in the 816 texts which refer to at least one king and one deity.
+<b>Frequencies_Deities_K:</b> List of all deities and their frequencies in the 576 texts which contain at least one king and one deity in a window of 10.
 
 <b>Frequencies_Kings:</b> List of all kings and their frequencies in the 816 texts which refer to at least one king and one deity.
 
