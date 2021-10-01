@@ -16,7 +16,7 @@
 
 <b>RIAoKings:</b> List of the kings whose texts are analyzed from the RIAo project.
 
-<b>RIBoKings:</b> List of the kings whose texts are analyzed from the RIBo project.
+<b>RIBoKings:</b> List of the kings whose texts are analyzed from the RIBo project. All the kings attested in the RINAP and SAAo projects were included in the analysis.
 
 <b>RoyalDeitySNA_extractor.py:</b> The script used for starting Pmizer.
 
