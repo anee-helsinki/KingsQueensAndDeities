@@ -1,8 +1,8 @@
-# KingsQueensAndDeities
+# A Social Network Analysis of Neo-Assyrian Kings and Queens to the Divine
 
-This repository contains the data used for and generated during our research for the article "The Relationships of Neo-Assyrian Kings and Queens to the Divine: A Study of Texts, Images, and Social Network Analysis".
+This repository contains the data used for and generated during our research for the article "A Social Network Analysis of Neo-Assyrian Kings and Queens to the Divine".
 
-In the article we study the networked relationship among Neo-Assyrian deities, kings, and queens. For studying the kings and deities, our text data comes from Open Richly Annotated Cuneiform Corpus (Oracc). From the texts in the Oracc projects RINAP, RIAo, RIBo, and SAAo, we used 816 texts that contain references to at least one king and one deity after we had processed the dataset. The connections between queens and deities were collected manually.
+In the article, we study the networked relationships between Neo-Assyrian deities, kings, and queens. Our text data on kings comes from the Open Richly Annotated Cuneiform Corpus (Oracc). After preprocessing our dataset, we analyzed 576 texts in which at least one king and deity co-occur within the window of ten words. These texts come from the Oracc projects RINAP, RIAo, RIBo, and SAAo. The connections between queens and deities were collected manually.
 
 The folders in this repository contain the following:
 
