@@ -6,7 +6,7 @@ In the article, we study the networked relationships between Neo-Assyrian deitie
 
 The folders in this repository contain the following:
 
-<b>Kings:</b> The text file from which we extracted all connections between kings and deities within a window of ten words from each other. A list of the names of kings and deities extracted. A list of the texts used.
+<b>Kings:</b> The text file from which we extracted the connections between kings and deities within a window of ten words; frequency lists; collocate lists; other statistics and lists concerning the data on kings and deities.
 
 <b>Queens:</b> A listing of queens and the deities mentioned in the same text. A list of pairs of queens and deities with the number of times they were mentioned together in all the texts studies. A list of the texts used.
 
