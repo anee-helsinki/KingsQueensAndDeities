@@ -1,4 +1,4 @@
-## Graphs and the data used to create them
+## Network data
 
 See the folder Visualizations for pdf images of our networks.
 
