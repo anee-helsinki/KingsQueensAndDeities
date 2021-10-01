@@ -16,4 +16,3 @@ CS2_Senn_Esarh_Ash_Naqia.pdf
 
 CS3_Kings_Chronology.pdf
 
-CS3_Queens_Chronology.pdf
