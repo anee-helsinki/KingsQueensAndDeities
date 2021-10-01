@@ -1,6 +1,6 @@
 ## Graphs and the data used to create them
 
-See the folder Visualization for pdf images of our networks.
+See the folder Visualizations for pdf images of our networks.
 
 <b>EgoNetworks:</b> Ego networks of individual kings and queens, both as pdf visualizations and Gephi projects.
 
