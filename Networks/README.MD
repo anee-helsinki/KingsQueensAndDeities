@@ -15,7 +15,7 @@ The gexf files used to create the graphs in Gephi:
 
 <b>RoyalAndDeity.gephi:</b> Gephi project with the normalized graphs from which the graphs in CaseStudy1/2/3.gephi were created.
 
-<b>CaseStudy1/2/3.gephi:</b> Networks which were created from RoyalAndDeity.gephi and analyzed in the case studies of the article. These graphs are available in the pdf format in the folder Visualizations.
+<b>Graphs1-4.gephi:</b> Networks which were created from KingsAndQueens.gexf and RoyalAndDeities.gexf and analyzed in the case studies of the article. These graphs are available in the pdf format in the folder Visualizations.
 
 <b>Case_Studies_Log.txt:</b> Gives the parameters we used in Gephi to visualize our graphs.
 
