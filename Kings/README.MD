@@ -16,9 +16,9 @@
 
 <b>RoyalDeitySNA_extractor.py:</b> The script used for starting Pmizer.
 
-<b>Texts_Kings.tsv:</b> A list of texts which refer to at least one king and one deity, including some metadata.
+<b>Texts_Kings.tsv:</b> A list of 816 texts which refer to at least one king and one deity, including some metadata.
 
-<b>Texts_KingsInWindow:</b> A list of texts which contain at least one king and one deity in a window of 10 words, including some metadata.
+<b>Texts_KingsInWindow.tsv:</b> A list of 576 texts which contain at least one king and one deity in a window of 10 words, including some metadata.
 
 <b>Texts_analysed:</b> The text file from which we extracted all connections between kings and deities within a window of ten words from each other.
 
