@@ -8,13 +8,15 @@ The folders in this repository contain the following:
 
 <b>Kings:</b> The text file from which we extracted the connections between kings and deities within a window of ten words; frequency lists; collocate lists; other statistics and lists concerning the data on kings and deities.
 
-<b>Queens:</b> A listing of queens and the deities mentioned in the same text. A list of pairs of queens and deities with the number of times they were mentioned together in all the texts studies. A list of the texts used.
-
-<b>Networks:</b> The gexf files used to create the graphs in Gephi. The Gephi project with the original graphs from which the pictures in the folder *Visualization* have been extracted/modified.
-
-<b>OraccData:</b> The words extacted from the JSON files available from Oracc.
+<b>Networks:</b> Graphs and the data used to create them, including gexf and gephi files.
 
 <b>Standardization:</b> Lists used for standardizing proper nouns in the textual data.
+
+<b>Visualizations:</b> Full-color pdf versions of the graphs presented in the article.
+
+<b>Queens:</b> A listing of queens and the deities mentioned in the same text. A list of pairs of queens and deities with the number of times they were mentioned together in all the texts studies. A list of the texts used.
+
+<b>OraccData:</b> The words extacted from the JSON files available from Oracc.
 
 
 <p align="center">
