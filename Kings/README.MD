@@ -1,10 +1,10 @@
-## This folder contains the data used to create networks between kings and deities
+## This folder contains the data used for creating the networks between kings and deities
 
-<b>Collocates_Kings.csv:</b> The connections between kings and deities with the bigram frequencies extracted from the .tsv file.
+<b>Collocates_Kings.csv:</b> The connections between kings and deities with the bigram frequencies extracted from the Collocates_Kings.tsv file.
 
-<b>Collocates_Kings.tsv:</b> The file produced with Pmizer (https://github.com/asahala/Pmizer) on the connections of the wanted words.
+<b>Collocates_Kings.tsv:</b> The file produced with Pmizer (https://github.com/asahala/Pmizer). Shows the bigram frequences and PMI scores of co-occurring kings and deities.
 
-<b>Duplicates:</b> A list of duplicate texts omitted from analysis
+<b>Duplicates:</b> A list of duplicate texts omitted from analysis. The duplicates were removed at the beginning of data processing. Thus some SAAo texts may have been omitted as duplicates although the duplicate we kept belonged to a project other than RINAP, RIAo, RIBo, and SAAo and was not included in our final dataset.
 
 <b>Genre_KingsTexts:</b> Genre distribution of the 576 texts which contain at least one king and one deity in a window of 10.
 
