@@ -17,6 +17,6 @@ The gexf files used to create the graphs in Gephi:
 
 <b>Graphs1-4.gephi:</b> Networks which were created from KingsAndQueens.gexf and RoyalAndDeities.gexf and analyzed in the case studies of the article. These graphs are available in the pdf format in the folder Visualizations.
 
-<b>Case_Studies_Log.txt:</b> Gives the parameters we used in Gephi to visualize our graphs.
+<b>Gephi_Log.txt:</b> Gives the parameters we used in Gephi to visualize our graphs.
 
 <b>TestingWindowSize.gephi:</b> Networks used for testing window sizes 5, 10, and 15 when using Pmizer.
