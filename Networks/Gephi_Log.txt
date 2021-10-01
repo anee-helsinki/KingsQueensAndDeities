@@ -1,0 +1,96 @@
+The following parameters were used to visualize our graphs in Gephi.
+
+Graph 1
+Based on KingsAndQueens.gexf.
+Node size: weighted degree 15-50.
+The kings' and queens' nodes were settled in the graph in the following positions (x,y): Kings (-800, 0), Queens (800, 0).
+Other nodes were allowed to move freely in the graph.
+We first applied the ForceAtlas2 layout algorithm with the following parameters:
+- Tolerance (speed) 0.1 (suggested by Jacomy et al. 2014; should give more precision)
+- Approximate repulsion OFF
+- Scaling 0.0001 (Gephi does not allow value 0.0)
+- Stronger gravity OFF
+- Gravity 0.0
+- Dissuade hubs OFF
+- LinLog mode OFF
+- Prevent overlap OFF
+- Edge weight influence 1.0
+The graph created using only the ForceAtlas2 algorithm, with numerous nodes overlapping, is available as Graph1_FA2 in the Gephi project.
+Afterwards, the position of the deities was adjusted manually. For the deities connected both to the kings and queens, we aimed at retaining their original position on the x axis while making their labels readable by adjusting their position on the y axis. The deities that are connected only to the kings or queens were moved behind the kings' and queens' nodes. Their positions are random and do not reflect their edge weights.
+Pdf visualization: label font Arial 24 plain, edge weight 0.5-10, no curved edges, edge color is source, edge opacity 75.
+
+Graph 2
+Based on RoyalAndDeities.gexf.
+Node size: weighted degree 15-50.
+The nodes of Sargon, Sennacherib, Esarhaddon, Ashurbanipal, and Naqi'a were settled on the circumference of a circle at equal distance (72 degrees) from each other. Their positions were converted to x and y coordinates using Unit Circle Coordinate Calculator at https://www.geogebra.org/m/qBfHYSTQ (author VTMike) and multiplying the coordinates between 0 and 1 by 600.
+Coordinates (x,y): Ashurbanipal (0 degrees) 1,0 = 600,0; Naqi'a (72 degrees) 0.31,0.95 = 186,570; Sargon (144 degrees) -0.81,0.59 = -486,354; Sennacherib (216 degrees) -0.81,-0.59 = -486,-354; Esarhaddon (288 degrees) 0.31,-0.95 = 186,-570.
+Other nodes were allowed to move freely in the graph.
+We first applied the ForceAtlas2 layout algorithm with the following parameters:
+- Tolerance (speed) 0.1 (suggested by Jacomy et al. 2014; should give more precision)
+- Approximate repulsion OFF
+- Scaling 0.0001 (Gephi does not allow value 0.0)
+- Stronger gravity OFF
+- Gravity 0.0
+- Dissuade hubs OFF
+- LinLog mode OFF
+- Prevent overlap OFF
+- Edge weight influence 1.0
+The graph created using only the ForceAtlas2 algorithm, with numerous nodes overlapping, is available as Graph2_FA2 in the Gephi project.
+Afterwards, the position of the deities was adjusted manually and using the Noverlap layout algorithm. For the deities connected to two or more royal persons, we aimed at retaining their original position while avoiding any overlap for the sake of readability. The deities that are connected only to a single royal person were moved behind the royal person, outside the circle on which the royal persons are located. Their positions are random and do not reflect their edge weights.
+Pdf visualization: label font Arial 18, edge weight 0.5-10, no curved edges, edge color is source.
+
+Graph 3
+Based on RoyalAndDeities.gexf.
+Node size: weighted degree 15-50.
+The nodes of Sargon, Sennacherib, Esarhaddon, and Ashurbanipal were settled on the opposite sides on the circumference of a circle.
+Coordinates (x,y): Sargon (-600, 0), Sennacherib (0, 600), Esarhaddon (0, -600), Ashurbanipal (600, 0).
+Other nodes were allowed to move freely in the graph.
+We first applied the ForceAtlas2 layout algorithm with the following parameters:
+- Tolerance (speed) 0.1 (suggested by Jacomy et al. 2014; should give more precision)
+- Approximate repulsion OFF
+- Scaling 0.0001 (Gephi does not allow value 0.0)
+- Stronger gravity OFF
+- Gravity 0.0
+- Dissuade hubs OFF
+- LinLog mode OFF
+- Prevent overlap OFF
+- Edge weight influence 1.0
+The graph created using only the ForceAtlas2 algorithm, with numerous nodes overlapping, is available as Graph3_FA2 in the Gephi project.
+Afterwards, the position of the deities was adjusted manually and using the Noverlap layout algorithm. For the deities connected to two or more royal persons, we aimed at retaining their original position while avoiding any overlap for the sake of readability. The deities that are connected only to a single royal person were moved behind the royal person, outside the circle on which the royal persons are located. Their positions are random and do not reflect their edge weights.
+Pdf visualization: label font Arial 18, edge weight 0.5-10, no curved edges, edge color is target.
+
+Graph4
+Based on RoyalAndDeities.gexf.
+Node size: weighted degree 15-50.
+The nodes of all kings were settled on the circumference of a circle at equal distance (c. 21.2 degrees) from each other. Their positions were converted to x and y coordinates using Unit Circle Coordinate Calculator at https://www.geogebra.org/m/qBfHYSTQ (author VTMike) and multiplying the coordinates between 0 and 1 by 1000.
+Other nodes were allowed to move freely in the graph.
+We first applied the ForceAtlas2 layout algorithm with the following parameters:
+- Tolerance (speed) 0.1 (suggested by Jacomy et al. 2014; should give more precision)
+- Approximate repulsion OFF
+- Scaling 0.0001 (Gephi does not allow value 0.0)
+- Stronger gravity OFF
+- Gravity 0.0
+- Dissuade hubs OFF
+- LinLog mode OFF
+- Prevent overlap OFF
+- Edge weight influence 1.0
+The graph created using only the ForceAtlas2 algorithm, with numerous nodes overlapping, is available as Graph4_FA2 in the Gephi project.
+Afterwards, the position of the deities was adjusted manually and using the Noverlap layout algorithm. For the deities connected to two or more royal persons, we aimed at retaining their original position while avoiding any overlap for the sake of readability. The deities that are connected only to a single royal person were moved behind the royal person, outside the circle on which the royal persons are located. Their positions are random and do not reflect their edge weights.
+Pdf visualization: label font Arial 18, edge weight 0.5-10, no curved edges, edge color is target.
+
+Ego_networks
+Based on KingsAndQueens.gexf (ego networks of all the kings and queens collapsed to one node each) and RoyalAndDeities.gexf (ego networks of individual kings and queens).
+Node size: weighted degree 15-50.
+All nodes were allowed to move freely.
+We applied the ForceAtlas2 algorithm with the following parameters:
+- Tolerance (speed) 0.1 (suggested by Jacomy et al. 2014; should give more precision)
+- Approximate repulsion OFF
+- Scaling was adjusted individually in each graph to make the graphs as readable as possible
+- Stronger gravity OFF
+- Gravity 1.0
+- Dissuade hubs OFF
+- LinLog mode OFF
+- Prevent overlap ON
+- Edge weight influence 1.0
+To make all the labels readable and nodes visible, we occassionally used the Label Adjust algorithm and moved some nodes manually.
+Pdf visualization: label font Arial 24 plain, edge weight 0.5-10, curved edges, edge color is target.
