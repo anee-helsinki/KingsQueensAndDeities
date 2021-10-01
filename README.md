@@ -6,7 +6,7 @@ In the article, we study the networked relationships between Neo-Assyrian deitie
 
 The folders in this repository contain the following:
 
-<b>Kings:</b> Files that relate to the dataset on kings and deities. The folder contains, for example, the text file from which we extracted the connections between kings and deities within a window of ten words, frequency lists, collocate lists, and other lists and statistics.
+<b>Kings:</b> Files that relate to the textual dataset on kings and deities, including the text file from which we extracted the connections between kings and deities within a window of ten words.
 
 <b>Networks:</b> Network files (.gexf and .gephi) and related data.
 
