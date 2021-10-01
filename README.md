@@ -2,13 +2,13 @@
 
 This repository contains the data used for and generated during our research for the article "A Social Network Analysis of Neo-Assyrian Kings and Queens to the Divine".
 
-In the article, we study the networked relationships between Neo-Assyrian deities, kings, and queens. Our text data on kings comes from the Open Richly Annotated Cuneiform Corpus (Oracc). After preprocessing our dataset, we analyzed 576 texts in which at least one king and deity co-occur within the window of ten words. These texts come from the Oracc projects RINAP, RIAo, RIBo, and SAAo. The connections between queens and deities were collected manually.
+In the article, we study the networked relationships between Neo-Assyrian deities, kings, and queens. Our text data on kings comes from the Open Richly Annotated Cuneiform Corpus (Oracc). After preprocessing our dataset, we analyzed 576 texts in which at least one king and deity co-occur within a window of ten words. These texts come from the Oracc projects RINAP, RIAo, RIBo, and SAAo. The connections between queens and deities were collected manually.
 
 The folders in this repository contain the following:
 
-<b>Kings:</b> The text file from which we extracted the connections between kings and deities within a window of ten words; frequency lists; collocate lists; other statistics and lists concerning the data on kings and deities.
+<b>Kings:</b> Files that relate to the dataset on kings and deities. The folder contains, for example, the text file from which we extracted the connections between kings and deities within a window of ten words, frequency lists, collocate lists, and other lists and statistics.
 
-<b>Networks:</b> Graphs and the data used to create them, including gexf and gephi files.
+<b>Networks:</b> Network files (.gexf and .gephi) and related data.
 
 <b>Standardization:</b> Lists used for standardizing proper nouns in the textual data.
 
