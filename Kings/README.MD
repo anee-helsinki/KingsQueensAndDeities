@@ -20,9 +20,9 @@
 
 <b>Texts_KingsInWindow.tsv:</b> A list of 576 texts which contain at least one king and one deity in a window of 10 words, including some metadata.
 
-<b>Texts_analysed:</b> The text file from which we extracted all connections between kings and deities within a window of ten words from each other.
+<b>Texts_analysed:</b> The text file composed of 576 texts from which we extracted all connections between kings and deities within a window of 10 words.
 
-<b>wantedKingsDeities:</b> A list of the names of kings and deities extracted.
+<b>WantedKingsDeities:</b> A list of the names of kings and deities extracted.
 
 <b>WeightedDegree_Deities_Kings:</b> Shows the weighted degree of deities, i.e. how many times each deity co-occurs with a king in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10 words.
 
