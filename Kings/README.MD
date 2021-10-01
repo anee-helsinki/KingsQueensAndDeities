@@ -14,9 +14,9 @@
 
 <b>Genre_KingsTexts:</b> Genre distribution of the 576 texts which contain at least one king and one deity in a window of 10 words.
 
-<b>riaoKings:</b> List of the kings whose texts are analyzed from the RIAo project.
+<b>RIAoKings:</b> List of the kings whose texts are analyzed from the RIAo project.
 
-<b>riboKings:</b> List of the kings whose texts are analyzed from the RIBo project.
+<b>RIBoKings:</b> List of the kings whose texts are analyzed from the RIBo project.
 
 <b>RoyalDeitySNA_extractor.py:</b> The script used for starting Pmizer.
 
