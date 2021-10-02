@@ -10,13 +10,13 @@ The folders in this repository contain the following:
 
 <b>Networks:</b> Network files (.gexf and .gephi) and related data.
 
+<b>OraccData:</b> Oracc texts and their metadata converted to .tsv files.
+
 <b>Standardization:</b> Lists used for standardizing proper nouns in the textual data.
 
 <b>Visualizations:</b> Full-color pdf versions of the graphs presented in the article.
 
 <b>Queens:</b> A listing of queens and the deities mentioned in the same text. A list of pairs of queens and deities with the number of times they were mentioned together in all the texts studies. A list of the texts used.
-
-<b>OraccData:</b> The words extacted from the JSON files available from Oracc.
 
 
 <p align="center">
