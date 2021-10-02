@@ -4,7 +4,7 @@
 
 <b>Frequencies_Deities_Q.tsv:</b> List of deities and their frequencies in the dataset on queens (includes only those cases when a deity is attested in the same semantic context with a queen).
 
-<b>Genre_Queens.csv:</b> Genre distribution of the queen texts used for network analysis (Texts_Queens_Deities_forSNA.csv).
+<b>Genre_Queens.csv:</b> Genre distribution of the queen texts used for network analysis.
 
 <b>Queens_Texts_Oracc.csv:</b> A list of texts in Oracc (RIAo, RINAP, SAAo) which include at least one queen and one deity. In case of unnamed queens, we followed Svärd 2015 and included all the identifications she characterizes as certain or probable. Those identifications which Svärd classifies “possible” and those in which she lists several possible queens were left out.
 
