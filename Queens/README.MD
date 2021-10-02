@@ -1,4 +1,4 @@
-## Data used to create networks of queens and deities; and related lists
+## Data used for creating networks between queens and deities
 
 <b>Collocates_Queens.csv:</b> A list of pairs of queens and deities with the number of times they were mentioned together in Texts_Queens_Deities_forSNA.csv. This file was used to create the network of queens and deities.
 
