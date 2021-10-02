@@ -1,4 +1,4 @@
-## This folder contains the data used for creating the networks between kings and deities
+## Data used for creating the networks between kings and deities
 
 <b>Collocates_Kings.csv:</b> The connections between kings and deities with the bigram frequencies extracted from the Collocates_Kings.tsv file.
 
