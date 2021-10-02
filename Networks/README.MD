@@ -10,7 +10,7 @@ See the folder Visualizations for pdf images of our networks.
 
 The gexf files used to create the graphs in Gephi:
 - <b>RoyalAndDeities.gexf:</b> individual kings and queens connected to deities.
-- <b>notNormalised.gexf:</b> RoyalAndDeities.gexf without normalizing the edge weights.
+- <b>NotNormalised.gexf:</b> RoyalAndDeities.gexf without normalizing the edge weights.
 - <b>KingsAndQueens.gexf:</b> individual kings and queens collapsed to one node each and connected to deities.
 
 <b>NodeCodes.csv:</b> The codes given to kings (k), queens (q), gods (m), goddesses (f), and groups of deities (g). These codes are used for coloring the different types of nodes with different colors in Gephi graphs.
