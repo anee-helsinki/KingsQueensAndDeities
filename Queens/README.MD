@@ -2,7 +2,7 @@
 
 <b>Collocates_Queens.csv:</b> A list of pairs of queens and deities with the number of times they were mentioned together in Texts_Queens_Deities_forSNA.csv. This file was used to create the network of queens and deities.
 
-<b>Frequencies_Deities_Q.tsv:</b> List of deities and their frequencies in the dataset on queens (includes only those cases when a deity is attested in the same semantic context with a queen).
+<b>Frequencies_Deities_Q.tsv:</b> List of deities and their frequencies in Texts_Queens_Deities_forSNA.csv (includes only those cases when a deity is attested in the same semantic context with a queen).
 
 <b>Genre_Queens.csv:</b> Genre distribution of the queen texts used for network analysis.
 
