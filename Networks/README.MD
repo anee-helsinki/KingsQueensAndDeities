@@ -2,6 +2,8 @@
 
 See the folder Visualizations for pdf images of our networks.
 
+<b>Adad_Enlil_trends.pdf:</b> Line charts depicting the edge weights between kings and Adad and Enlil over time.
+
 <b>EgoNetworks:</b> Ego networks of individual kings and queens, both as pdf visualizations and Gephi projects.
 
 <b>Gephi_Log.txt:</b> Gives the parameters we used in Gephi to visualize our graphs.
