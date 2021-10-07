@@ -8,6 +8,8 @@ See the folder Visualizations for pdf images of our networks.
 
 <b>Graphs1-4.gephi:</b> Networks which were created from KingsAndQueens.gexf and RoyalAndDeities.gexf and analyzed in the case studies of the article. These graphs are available in the pdf format in the folder Visualizations.
 
+<b>Graphs2-3_edge_weights.csv/.pdf:</b> A comparison chart of edge weights between the five royal persons and deities in Graphs 2 and 3.
+
 <b>Kings_edges.csv:</b> Edge weights between the kings' node and deities in descending order (Graph 1).
 
 <b>NodeCodes.csv:</b> The codes given to kings (k), queens (q), gods (m), goddesses (f), and groups of deities (g). These codes are used for coloring the different types of nodes with different colors in Gephi graphs.
