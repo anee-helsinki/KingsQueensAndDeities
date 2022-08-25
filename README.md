@@ -16,6 +16,8 @@ The folders in this repository contain the following:
 
 <b>Standardization:</b> Lists used for standardizing proper nouns in the textual data.
 
+<b>Tables:</b> Full versions of the tables that are published in a shortened form in the article.
+
 <b>Visualizations:</b> Full-color pdf versions of the graphs presented in the article.
 
 
