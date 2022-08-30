@@ -30,6 +30,6 @@
 
 <b>WantedKingsDeities:</b> A list of the names of kings and deities extracted.
 
-<b>WeightedDegree_Deities_Kings:</b> Shows the weighted degree of deities, i.e. how many times each deity co-occurs with a king in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10 words.
+<b>Co-occurrences_Deities_Kings:</b> Shows how many times each deity co-occurs with a king in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10 words.
 
-<b>WeightedDegree_Kings_Deities:</b> Shows the weighted degree of kings, i.e. how many times each king co-occurs with a deity in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10 words.
+<b>Co-occurrences_Kings_Deities:</b> Shows how many times each king co-occurs with a deity in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10 words.
