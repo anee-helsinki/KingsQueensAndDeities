@@ -4,6 +4,10 @@
 
 <b>Collocates_Kings.tsv:</b> The file produced with Pmizer (https://github.com/asahala/Pmizer). Shows the bigram frequences and PMI scores of co-occurring kings and deities.
 
+<b>Co-occurrences_Deities_Kings:</b> Shows how many times each deity co-occurs with a king in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10 words.
+
+<b>Co-occurrences_Kings_Deities:</b> Shows how many times each king co-occurs with a deity in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10 words.
+
 <b>Duplicates:</b> A list of duplicate texts omitted from analysis. The duplicates were removed at the beginning of data processing. Thus some SAAo texts may have been omitted as duplicates although the duplicate we kept belonged to a project other than RINAP, RIAo, RIBo, and SAAo and was not included in our final dataset.
 
 <b>Frequencies_Deities_K:</b> List of all deities and their frequencies in the 576 texts which contain at least one king and one deity in a window of 10 words.
@@ -29,7 +33,3 @@
 <b>Texts_analyzed:</b> The text file composed of 576 texts from which we extracted all connections between kings and deities within a window of 10 words.
 
 <b>WantedKingsDeities:</b> A list of the names of kings and deities extracted.
-
-<b>Co-occurrences_Deities_Kings:</b> Shows how many times each deity co-occurs with a king in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10 words.
-
-<b>Co-occurrences_Kings_Deities:</b> Shows how many times each king co-occurs with a deity in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10 words.
