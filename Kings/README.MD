@@ -1,10 +1,10 @@
-## Data used for creating networks between kings and deities
+## Data used for analyzing the co-occurrences of kings and deities
 
 <b>Co-occurrences_Deities_Kings:</b> Shows how many times each deity co-occurs with a king in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10 words.
 
 <b>Co-occurrences_Kings_Deities:</b> Shows how many times each king co-occurs with a deity in a window of 10 words. The deities have to be attested five times or more in the dataset of 576 texts which contain at least one king and one deity in a window of 10 words.
 
-<b>Collocates_Kings.csv:</b> The connections between kings and deities with the bigram frequencies extracted from the Collocates_Kings.tsv file.
+<b>Collocates_Kings.csv:</b> The co-occurrences of kings and deities, including the bigram frequencies extracted from the Collocates_Kings.tsv file.
 
 <b>Collocates_Kings.tsv:</b> The file produced with Pmizer (https://github.com/asahala/Pmizer). Shows the bigram frequences and PMI scores of co-occurring kings and deities.
 
@@ -32,4 +32,4 @@
 
 <b>Texts_analyzed:</b> The text file composed of 576 texts from which we extracted all connections between kings and deities within a window of 10 words.
 
-<b>WantedKingsDeities:</b> A list of the names of kings and deities extracted.
+<b>WantedKingsDeities:</b> The names of the kings and deities whose co-occurrences were extracted from the file Texts_analyzed.
