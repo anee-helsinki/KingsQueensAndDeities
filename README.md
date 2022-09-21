@@ -10,7 +10,7 @@ The folders in this repository contain the following:
 
 <b>OraccData:</b> Oracc texts and their metadata converted to .tsv files.
 
-<b>Queens:</b> Data used for analyzing the co-occurrences of queens with deities, including some statistics.
+<b>Queens:</b> Data used for analyzing the co-occurrences of queens and deities, including some statistics.
 
 <b>Standardization:</b> Lists used for standardizing proper nouns in the textual data.
 
