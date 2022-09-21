@@ -1,0 +1,442 @@
+ORACC CREDITS
+
+We thank the Open Richly Annotated Cuneiform Corpus (Oracc) for their efforts in making linguistically annotated cuneiform texts available online. We are indebted to everyone who has been involved in creating this research data, including the authors of the original publications and the researchers who have made the data Oracc-compatible and enriched it through lemmatizations and by adding other metadata. The following list of credits is taken from http://oracc.museum.upenn.edu/projectlist.html. 
+
+ADSD: ASTRONOMICAL DIARIES DIGITAL
+
+ADsD provides an online edition of the Babylonian Astronomical Diaries. The project is based on the editio princeps prepared by Abraham Sachs and Hermann Hunger, incorporating collations and corrections that were made after publication. ADsD is an outcome of the research grant Astronomical Diaries Digital sponsored by the Austrian Science Funds (FWF), carried out at the Austrian Academy of Sciences (Division: Austrian Centre for Digital Humanities), and led by Reinhard Pirngruber.
+
+adsd/adart1: adsd/Astronomical Diaries and Related Texts 1
+ADART 1 contains a searchable edition of the texts published in Sachs and Hunger's Astronomical Diaries and Related Texts from Babylonia, Volume 1: Diaries from 652 B.C. to 262 B.C.
+
+adsd/adart2: adsd/Astronomical Diaries and Related Texts 2
+ADART 2 contains a searchable edition of the texts published in Sachs and Hunger's Astronomical Diaries and Related Texts from Babylonia, Volume 2: Diaries from 261 B.C. to 165 B.C.
+
+adsd/adart3: adsd/Astronomical Diaries and Related Texts 3
+ADART 3 contains a searchable edition of the texts published in Sachs and Hunger's Astronomical Diaries and Related Texts from Babylonia, Volume 3: Diaries from 164 B.C. to 61 B.C.
+
+adsd/adart6: adsd/Astronomical Diaries and Related Texts 6
+ADART 6 contains a searchable edition of the texts published in Sachs and Hunger's Astronomical Diaries and Related Texts from Babylonia, Volume 6: Goal Year Texts.
+
+AEMW: AKKADIAN IN THE EASTERN MEDITERRANEAN WORLD
+
+AEMW is an on-going project directed by Jacob Lauinger (Johns Hopkins University) and Matthew Rutz (Brown University) that aims to bring together lemmatized, searchable editions and translations of archival texts written in Akkadian cuneiform from a wide variety of Eastern Mediterranean sites.
+
+aemw/idrimi: Statue of Idrimi
+An up-to-date, searchable edition of the Idrimi inscription together with numerous annotations and bibliography. By Jacob Lauinger at Johns Hopkins University.
+
+aemw/amarna: The Amarna Letters
+The project presents up-to-date, searchable editions of the “Amarna letters,” the diplomatic correspondence in Akkadian cuneiform dating to the mid-14th century BC and found at Tell el-Amarna (ancient Akhetaten) in Egypt. By Jacob Lauinger (Johns Hopkins University) and Tyler Yoder (Culver Academies) and supported by a Catalyst Award from Johns Hopkins University.
+
+AKKLOVE: AKKADIAN LOVE LITERATURE
+
+AkkLove presents all early Akkadian literary texts related to love and sex known to date. The project is based on Wasserman, Akkadian Love Literature of the Third and Second Millennium BCE (LAOS 4), Harrassowitz, 2016, where commentary to the texts and an introduction to the corpus are found.
+
+AMGG: ANCIENT MESOPOTAMIAN GODS AND GODDESSES
+
+Offers information about the fifty most important Mesopotamian gods and goddesses and provides starting points for further research. Directed by Nicole Brisch and funded by the UK Higher Education Academy, 2011.
+
+ARIO: ACHAEMENID ROYAL INSCRIPTIONS ONLINE
+
+The project presents annotated and searchable editions of Achaemenid Royal Inscriptions written in Old Persian, Elamite, and Akkadian. The open-access editions are based on Rüdiger Schmitt's Die altpersischen Inschriften der Achaimeniden (2009) and data provided by Dr. Matt Stolper (from his now-defunct Achaemenid Royal Inscriptions project). The texts have been adapted, lemmatized, and translated into English by Henry Heitmann-Gordon. The project is a sub-project of the Munich Open-access Cuneiform Corpus Initiative (MOCCI), which is funded by LMU Munich and the Alexander von Humboldt Foundation.
+
+ARMEP: ANCIENT RECORDS OF MIDDLE EASTERN POLITIES
+
+ARMEP, with its multi-project search engine, enables users to simultaneously search the translations, transliterations, and catalogues of multiple Oracc projects on which ancient records of Middle Eastern polities (especially those of the first millennium BC) are edited. The project is funded by LMU Munich and the Alexander von Humboldt Foundation. ARMEP is managed by Jamie Novotny and Karen Radner.
+
+ARRIM DIGITAL ARCHIVE: DIGITAL ARCHIVE OF THE ANNUAL REVIEW OF THE ROYAL INSCRIPTIONS OF MESOPOTAMIA
+
+Through the kind permission of Kirk Grayson and with funding provided by the Alexander von Humboldt Foundation, ARRIM Digital Archive makes all nine issues of “The Annual Review of the Royal Inscriptions of Mesopotamia" (1983-1991) freely available in searchable PDF files.
+This digital archive is based at LMU Munich (Historisches Seminar, Alte Geschichte) and is managed by Jamie Novotny and Karen Radner.
+
+ASBP: ASHURBANIPAL LIBRARY PROJECT
+
+The Ashurbanipal Library Project documents the 30,000 tablets and fragments of the Library of Ashurbanipal, 7th century BC king of Assyria. Managed by Jon Taylor.
+
+NINMED: THE NINEVEH MEDICAL ENCYCLOPAEDIA
+
+NinMed is reconstructing and translating the world’s most standardised, structured and systematised corpus of medical literature prior to Galen: the “Nineveh Medical Encyclopaedia” from the library of Ashurbanipal, King of Assyria (669-c.630 BC). Funded by the Wellcome Trust. Directed by Jon Taylor in collaboration with Mark Geller, and with the assistance of Irving Finkel.
+
+RLASB: READING THE LIBRARY OF ASHURBANIPAL PROJECT
+
+Reading the Library of Ashurbanipal seeks to understand Assyriology's foundational corpus. Here we provide access to the many colophons (scribal notes) marking the Library tablets. Managed by Jon Taylor and Enrique Jiménez. Funded by the DFG-AHRC.
+
+ATAE: ARCHIVAL TEXTS OF THE ASSYRIAN EMPIRE
+
+The Archival Texts of the Assyrian Empire (ATAE) Project is a corpus-building project that aims to expand the Nineveh-focused State Archives of Assyria online (SAAo) corpus by adding annotated editions of archival texts discovered at the principal Assyrian cities Assur and Kalhu, as well as at smaller provincial sites such as Burmarina, Dur-Katlimmu, Ma'allanate, Til-Barsip, and Tušhan. Work on ATAE is being carried out by Poppy Tushingham (2017–), with the assistance of Nathan Morello (2017–20) and Jamie Novotny (2017–).
+
+Assur: Neo-Assyrian Archival Texts from Assur
+The aim of the Assur sub-project of ATAE is to make the published Neo-Assyrian archival texts from Qalat Sherqat available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond.
+
+Burmarina: Neo-Assyrian Archival Texts from Burmarina
+The aim of the Burmarina sub-project of ATAE is to make the published Neo-Assyrian archival texts from this Assyrian city (modern Tell Shiukh Fawqani) available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond.
+
+Dur-Katlimmu: Neo-Assyrian Archival Texts from Dur-Katlimmu
+The aim of the Dur-Katlimmu sub-project of ATAE is to make the published Neo-Assyrian archival texts from this Assyrian city (modern Tell Sheikh Hamad) available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond.
+
+Guzana: Neo-Assyrian Archival Texts from Guzana
+The aim of the Guzana sub-project of ATAE is to make the published Neo-Assyrian archival texts from this Assyrian city (modern Tell Halaf) available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond.
+
+Huzirina: Neo-Assyrian Archival Texts from Huzirina
+The aim of the Huzirina sub-project of ATAE is to make the published Neo-Assyrian archival texts from this Assyrian city (modern Sultantepe) available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond.
+
+Imgur-Enlil: Neo-Assyrian Archival Texts from Imgur-Enlil
+The aim of the Imgur-Enlil sub-project of ATAE is to make the published Neo-Assyrian archival texts from this Assyrian city (modern Balawat) available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond.
+
+Kalhu: Neo-Assyrian Archival Texts from Kalhu
+The aim of the Kalhu sub-project of ATAE is to make the published archival texts from Nimrud available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond.
+
+Ma'allanate: Neo-Assyrian Archival Texts from Ma'allanate
+The aim of the Ma’allanate sub-project of ATAE is to make the published Neo-Assyrian archival texts from this Assyrian city (modern location unknown) available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond.
+
+Marqasu: Neo-Assyrian Archival Texts from Marqasu
+The aim of the Marqasu sub-project of ATAE is to make the published Neo-Assyrian archival texts from this Assyrian city (modern Kahramanmaraş) available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond. The editions of the firty-six texts edited in C. Günbattı, S. Çeçen, L.G. Gökçek, and F. Akyüz, Kahramanmaraş'ta Bulunmuş Yeni Asurca Tabletler are presented here with the kind permission of the book’s authors.
+
+Nineveh: Neo-Assyrian Archival Texts from Nineveh
+The aim of the Nineveh sub-project of ATAE is to make the published Neo-Assyrian archival texts from Kuyunjik and Nebi Yunus available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond. This subproject is a mirror of SAAo.
+
+Sam’al: Neo-Assyrian Archival Texts from Sam’al
+The aim of the Sam’al sub-project of ATAE is to make the published Neo-Assyrian archival texts from this Assyrian city (modern Zinçirli) available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond.
+
+Šibaniba: Neo-Assyrian Archival Texts from Šibaniba
+The aim of the Šibaniba sub-project of ATAE is to make the published Neo-Assyrian archival texts from this Assyrian city (modern Tell Billa) available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond.
+
+Til-Barsip: Neo-Assyrian Archival Texts from Til-Barsip
+The aim of the Til-Barsip sub-project of ATAE is to make the published Neo-Assyrian archival texts from this Assyrian city (modern Tell Ahmar) available online for free in a fully searchable and richly annotated (lemmatized) format, as well as to widely disseminate, facilitate, and promote the active use of these important cuneiform sources in academia and beyond.
+
+BLMS: BILINGUALS IN LATE MESOPOTAMIAN SCHOLARSHIP
+
+Long after Sumerian had died out as a spoken language, bilingual (Sumerian - Akkadian) texts still played a prominent role in the scholarly culture of Babylonia and Assyria. BLMS provides editions of bilingual narrative texts, hymns, proverbs, prayers, rituals, and incantations dating to the first millennium BCE. Project Director: Steve Tinney; Editor: Jeremiah Peterson. With the assistance of Niek Veldhuis, Jamie Novotny, Joshua Jeffers, and Ilona Zsolnay. BLMS is supported by the National Endowment for the Humanities.
+
+BTTO: BABYLONIAN TOPOGRAPHICAL TEXTS ONLINE
+
+This project includes lemmatized editions of the texts edited in George, Babylonian Topographical Texts George, House Most High: The Temples of Ancient Mesopotamia, including Tintir = Babylon, the Götteradressbuch, and the Canonical Temple List. BTTo is part of the three-year, LMU-Munich-based project Living Among Ruins, which is funded by the Gerda Henkel Stiftung as part of the Lost Cities program (coordinated by Martin Zimmermann and Andreas Beyer). The BTTo team comprises Karen Radner, Jamie Novotny, Frauke Weiershäuser, and Giulia Lentini.
+
+CAMS: CORPUS OF ANCIENT MESOPOTAMIAN SCHOLARSHIP
+
+Editions and translations of a wide range of Mesopotamian scholarly writings, contributed by many different people and projects.
+
+cams/akno: Ancient Knowledge Networks online
+This website is the online complement to Eleanor Robson's book, Ancient Knowledge Networks: a Social Geography of Cuneiform Scholarship in First-Millennium Assyria and Babylonia, published by UCL Press in November 2019. It contains links to translations of cuneiform texts, glossaries, and list of all known scholars of Assyria and Babylonia in the first millennium BC.
+
+CAMS/Anzu
+Composite transliterations of the Epic of Anzu, prepared by Amar Annus for the book The Standard Babylonian Epic of Anzu (State Archives of Assyria, Cuneiform Texts 3), Helsinki: The Neo-Assyrian Text Corpus Project, 2001. Lemmatisation by Philip Jones.
+
+CAMS/Barutu
+Texts on extispicy (divination by the entrails of sacrificed animals). Currently contains only the Old Babylonian liver model BM 92668. The ordering of the omens was determined by Ruth Horry, the transliteration and translation made by Eleanor Robson.
+
+CAMS/Etana: The Standard Babylonian Epic of Etana
+Provides fully searchable manuscript transliterations of the Old Babylonian, Middle Assyrian and Neo-Assyrian versions of the Etana epic, prepared by Jamie Novotny for the book The Standard Babylonian Etana Epic (State Archives of Assyria, Cuneiform Texts 2), Helsinki: The Neo-Assyrian Text Corpus Project, 2001.
+
+CAMS/GKAB: CAMS Geography of Knowledge Corpus
+Editions of scholarly tablets from Huzirina, Kalhu, and Uruk for the Geography of Knowledge project, comprising editions and translations of a wide range of Mesopotamian scholarly writings.
+Project directed by Eleanor Robson at the University of Cambridge and funded by the UK Arts and Humanities Research Council, 2007-12.
+
+CAMS/Ludlul
+Score and manuscript transliterations of Ludlul bēl nēmeqi, prepared by Amar Annus and Alan Lenzi for the book Ludlul Bēl Nēmeqi: The Standard Babylonian Poem of the Righteous Sufferer (State Archives of Assyria, Cuneiform Texts 7), Helsinki: The Neo-Assyrian Text Corpus Project, 2010.
+
+CAMS/SelBI: CAMS/Seleucid Building Inscriptions
+Third-century BC building inscriptions, from Borsippa and Uruk. Edition of the Antiochus (Borsippa) Cylinder by Kathryn Stevens; edition of the Anu-uballiṭs' inscriptions from Uruk by Eleanor Robson.
+
+HIST3109: Temple Life in Assyria and Babylonia
+Editions and translations of texts for the UCL Undergraduate Special Subject in History, Temple Life in Assyria and Babylonia (HIST3109), academic year 2018-19. Compiled by Eleanor Robson at UCL.
+
+CASPO: CORPUS OF AKKADIAN SHUILA-PRAYERS ONLINE
+
+"Corpus of Akkadian Shuila Prayers Online" is an on-going project that provides a digital resource for these important Akkadian prayers and lays the foundation for a comprehensive critical edition. Alan Lenzi, professor at University of the Pacific (Stockton, CA), leads the project.
+
+CASPo/akkpm: CASPo/Akkadian Prayer Miscellany
+"The Akkadian Prayer Miscellany" is a sub-project of CASPo, headed by Alan Lenzi, professor at University of the Pacific (Stockton, CA). The project functions as a kind of repository for a selection of Akkadian prayers that Lenzi is working on. As the name suggests, the project contains a mixture of different kinds of prayers from different places and times. The one unifying element is that all of the texts are in Akkadian.
+
+CCPO: CUNEIFORM COMMENTARIES PROJECT ON ORACC
+
+Provides fully searchable, annotated editions of text commentaries written by Assyrian and Babylonian scholars between the eighth and second centuries BCE. The texts commented on include literary, magical, divinatory, medical, legal, and lexical works.
+Project Director: Eckart Frahm; Co-Director: Enrique Jiménez; Senior Editor: Mary Frazer.
+
+CDLI: THE CUNEIFORM DIGITAL LIBRARY INITIATIVE
+
+The foundational online cataloging and archiving project for the cuneiform corpus, directed by Bob Englund at UCLA. The Oracc presentation is based directly on public CDLI data which is updated nightly.
+
+CKST: CORPUS OF KASSITE SUMERIAN TEXTS
+
+Editions of Sumerian Kassite texts: Royal Inscriptions, Literary, and Lexical texts.
+
+CMAWRO: CORPUS OF MESOPOTAMIAN ANTI-WITCHCRAFT RITUALS
+
+CMAwRo presents online critical editions of Mesopotamian rituals and incantations against witchcraft. The DFG-funded research project "Corpus babylonischer Rituale und Beschwörungen gegen Schadenzauber: Edition, lexikalische Erschließung, historische und literarische Analyse" is directed by Daniel Schwemer (University of Würzburg).
+
+CMAwRo 1: Corpus of Mesopotamian Anti-witchcraft Rituals, vol. 1
+CMAwRo 1 presents online the text editions and translations from Tzvi Abusch and Daniel Schwemer, Corpus of Mesopotamian Anti-witchcraft Rituals, vol. 1 (Ancient Magic and Divination 8/1, Brill: 2011). The volume was lemmatized by Mikko Luukko as part of the DFG-funded research project "Corpus babylonischer Rituale und Beschwörungen gegen Schadenzauber: Edition, lexikalische Erschließung, historische und literarische Analyse", directed by Daniel Schwemer (University of Würzburg).
+
+CMAwRo 2: Corpus of Mesopotamian Anti-witchcraft Rituals, vol. 2
+CMAwRo 2 presents online the text editions and translations from Tzvi Abusch, Daniel Schwemer, Mikko Luukko and Greta Van Buylaere, Corpus of Mesopotamian Anti-witchcraft Rituals, vol. 2 (Ancient Magic and Divination 8/2, Brill: 2016). The volume was lemmatized by Mikko Luukko and Greta Van Buylaere as part of the DFG-funded research project "Corpus babylonischer Rituale und Beschwörungen gegen Schadenzauber: Edition, lexikalische Erschließung, historische und literarische Analyse", directed by Daniel Schwemer (University of Würzburg).
+
+cmawro/cmawr3: cmawro/CMAwRo 3
+Maqlû presents online the text editions and translations from Tzvi Abusch, The Magical Ceremony Maqlû: A Critical Edition (Ancient Magic and Divination 10, Brill: 2015). The volume was lemmatized by Mikko Luukko and Greta Van Buylaere as part of the DFG-funded research project "Corpus babylonischer Rituale und Beschwörungen gegen Schadenzauber: Edition, lexikalische Erschließung, historische und literarische Analyse", directed by Daniel Schwemer (University of Würzburg).
+
+CONTRIB: CONTRIBUTIONS
+
+Data contributed to Oracc for reuse by others, normally under the CC BY-SA license.
+
+Amarna: The Amarna Texts
+Contributed by Shlomo Izre'el, the Amarna corpus comprises transliterations of the 380 cuneiform tablets found at Tell el-Amarna (ancient Akhetaten) in Egypt. It contains diplomatic correspondence and Akkadian scholarly works from the mid-14th century BC.
+
+contrib/lambert: The Notebooks of W.G. Lambert
+W. G. Lambert (1926-2011) was an Assyriologist who spent much of his research time transliterating and copying cuneiform tablets in museums, especially the British Museum. His Nachlass included eight notebooks filled with handwritten transliterations of Babylonian and Assyrian texts. The notebooks contain more than five thousand transliterations, spread over nearly fifteen hundred pages. They are an astonishing record of sustained first-hand engagement with cuneiform tablets.
+
+CTIJ: CUNEIFORM TEXTS MENTIONING ISRAELITES, JUDEANS, AND OTHER RELATED GROUPS
+
+Cuneiform texts and onomastic data pertaining to Israelites, Judeans, and related population groups during the Neo-Assyrian, Neo- and Late Babylonian, and Achaemenid Periods (744-330 BCE).
+Project directed by Ran Zadok and Yoram Cohen, and funded by the "Ancient Israel" (New Horizons) Research Program of Tel Aviv University.
+
+DCCLT: DIGITAL CORPUS OF CUNEIFORM LEXICAL TEXTS
+
+Editions and translations of lexical texts (word lists and sign lists) from all periods of cuneiform writing. Project directed by Niek Veldhuis at UC Berkeley and supported by the National Endowment for the Humanities.
+
+DCCLT/ebla: DCCLT/Ebla Lexical Texts
+Editions and translation of the unilingual and bilingual lexical texts from Ebla (ca. 2300 BCE). The editions were prepared by Marco Bonechi (Rome) and transformed for publication in DCCLT by Niek Veldhuis.
+
+dcclt/Jena: dcclt/Lexical Texts in the Hilprecht Collection, Jena
+Editions and translation of lexical texts from Nippur now in the Frau Professor Hilprecht Collection of the Friedrich Schiller University Jena. Editions by John Carnahan and Niek Veldhuis (Berkeley) with the assistance of Jay Chrisostomo (Ann Arbor), Kai Lämmerhirt, and Manfred Krebernik (Jena). Supported by a Mellon Project Grant of the Division of Arts and Humanities of the University of California at Berkeley.
+
+DCCLT/Nineveh: DCCLT/Lexical Texts in the Royal Libraries at Nineveh
+Nineveh provides editions of the lexical texts in the royal tablet collections discovered in the Assyrian capital. The project is supported by the NEH and was carried out in cooperation with the British Museum.
+
+DCCLT/signlists: DCCLT/Reading the Signs
+Editions and translations of all cuneiform sign lists from the middle of the third millennium B.C.E. until the end of cuneiform culture. The project is supported by the NEH. Project directed by Niek Veldhuis. Editions by Emmanuelle Salgues, C. Jay Crisostomo, and John Carnahan.
+
+DCCMT: DIGITAL CORPUS OF CUNEIFORM MATHEMATICAL TEXTS
+
+Catalogue of around a thousand published cuneiform mathematical tablets, with several hundred transliterations and translations. Project run by Eleanor Robson at the University of Cambridge.
+
+DSST: DATENBANK SUMERISCHER STREITLITERATUR
+
+The “Datenbank der sumerischen Streitliteratur” (DSSt) aims for the edition of 15 Sumerian disputations as well as five Edubba’a texts and five Diatribes in the form of a score text together with a composite and translation in English, French or German. The project (under the direction of Catherine Mittermayer) is based at the University of Geneva and was funded by the Swiss National Science Foundation.
+
+ECUT: ELECTRONIC CORPUS OF URARTIAN TEXTS
+
+The project presents fully annotated and searchable editions of numerous cuneiform sources from the Kingdom of Urartu, which are mainly written in the Urartian language. The open-access editions are based on Mirjo Salvini's Corpus dei testi urartei (CTU) I-V (2008-2018) and they have been adapted, revised, lemmatized, and translated into English by Birgit Christiansen. The project is a sub-project of the Munich Open-access Cuneiform Corpus Initiative (MOCCI), which is funded by LMU Munich and the Alexander von Humboldt Foundation.
+
+EPSD2/ISSL: EPSD2/INDEX TO THE SUMERIAN SECONDARY LITERATURE
+
+Over 70,000 references to the Sumerian secondary literature which also indexes all of the transliterations of word writings in ePSD2.
+
+ETCSRI: ELECTRONIC TEXT CORPUS OF SUMERIAN ROYAL INSCRIPTIONS
+
+An annotated, grammatically and morphologically analyzed, transliterated, trilingual (Sumerian-English-Hungarian), parallel corpus of all Sumerian royal inscriptions.
+Directed by Gábor Zólyomi at Eötvos Loránd University, Budapest and funded by the Hungarian Scientific Research Fund (OTKA).
+
+GLASS: CORPUS OF GLASS TECHNOLOGICAL TEXTS
+
+This project provides editions and translations for cuneiform technological recipes. The texts include Assyrian and Babylonian tablets that provide instructions for producing glass that imitates precious stones and procedures for processing perfumed oils. Directed by Eduardo A. Escobar at UC Berkeley
+
+HBTIN: HELLENISTIC BABYLONIA: TEXTS, ICONOGRAPHY, NAMES
+
+Cuneiform texts, iconography and onomastic data from Hellenistic Babylonia, primarily from Uruk. HBTIN texts form the demonstrator corpus of the Berkeley Prosopography Service (BPS).
+Directed by Laurie Pearce at UC Berkeley.
+
+ISSL: THE INDEX TO THE SUMERIAN SECONDARY LITERATURE
+
+Over 70,000 references to the Sumerian secondary literature which also indexes all of the transliterations of word writings in ePSD.
+
+LAOCOST: LAW AND ORDER: CUNEIFORM ONLINE SUSTAINABLE TOOL
+
+This project illuminates how issues of law and gender were practiced in the ancient Near East, utilizing a digital corpus of legal and non-legal texts as its database. LaOCOST is directed by Ilan Peled.
+
+LOVELYRICS: A CORPUS OF 1ST MILL. LOVE RITUALS INVOLVING MARDUK, ZARPANITUM AND IŠTAR
+
+Edition of the corpus of 1st-millennium-BCE texts from Assyria and Babylonia with rituals and verbal ceremonies involving Marduk, Zarpanitu and Ištar of Babylon. By Rocío Da Riva (Universitat de Barcelona) and Nathan Wasserman (The Hebrew University of Jerusalem).
+
+NIMRUD: NIMRUD: MATERIALITIES OF ASSYRIAN KNOWLEDGE PRODUCTION
+
+A portal to all things related to the ancient Assyrian city of Nimrud (Kalhu/Calah), on Oracc and beyond. Explores how scientific and historical knowledge is made from archaeological objects.
+Directed by Eleanor Robson at the University of Cambridge and funded by the UK Arts and Humanities Research Council.
+
+OBMC: OLD BABYLONIAN MODEL CONTRACTS
+
+Edition of the Corpus of Old Babylonian Model Contracts by Gabriella Spada.
+
+OBTA: OLD BABYLONIAN TABULAR ACCOUNTS
+
+A catalogue and corpus of Old Babylonian tabular accounts by Eleanor Robson at University College London. Additions and corrections welcome.
+
+OGSL: ORACC GLOBAL SIGN LIST
+
+Provides a global registry of sign names, variants and readings for use by Oracc.
+Managed by Niek Veldhuis at UC Berkeley.
+
+OIMEA: OFFICIAL INSCRIPTIONS OF THE MIDDLE EAST IN ANTIQUITY
+
+OIMEA, with its multi-project search engine, enables users to simultaneously search the translations, transliterations, and catalogues of multiple Oracc projects on which official inscriptions are edited. The project is funded by LMU Munich and the Alexander von Humboldt Foundation. OIMEA is managed by Jamie Novotny and Karen Radner.
+
+PNAO: PROSOPOGRAPHY OF THE NEO-ASSYRIAN EMPIRE ONLINE
+
+Provides a collection of additions and corrections to the printed fascicles of The Prosopography of the Neo-Assyrian Empire. A separate section is devoted to new information about Neo-Assyrian eponym officials. Compiled by Heather D. Baker at the University of Toronto.
+
+QCAT: THE Q CATALOGUE
+
+Provides a global registry of compositions rather than objects, supporting the creation of scores on Oracc. Managed by Eleanor Robson at the University of Cambridge.
+
+RIAO: ROYAL INSCRIPTIONS OF ASSYRIA ONLINE
+
+This project intends to present annotated editions of the entire corpus of Assyrian royal inscriptions, texts that were published in RIMA 1-3. This rich, open-access corpus has been made available through the kind permission of Kirk Grayson and Grant Frame and with funding provided by LMU Munich and the Alexander von Humboldt Foundation. RIAo is based at LMU Munich (Historisches Seminar, Alte Geschichte) and is managed by Jamie Novotny and Karen Radner. Kirk Grayson, Nathan Morello, and Jamie Novotny are the primary content contributors.
+
+RIBO: ROYAL INSCRIPTIONS OF BABYLONIA ONLINE
+
+This project intends to present annotated editions of the entire corpus of Babylonian royal inscriptions from the Second Dynasty of Isin to the Neo-Babylonian Dynasty (1157-539 BC). This rich, open-access corpus has been made available through the kind permission of Rocío Da Riva and Grant Frame and with funding provided by LMU Munich and the Alexander von Humboldt Foundation. RIBo is based at LMU Munich (Historisches Seminar, Alte Geschichte) and is managed by Jamie Novotny and Karen Radner. Alexa Bartelmus, Rocío Da Riva, Grant Frame, and Jamie Novotny are the primary content contributors.
+
+Scores: Scores of the Inscriptions of the Neo-Babylonian Dynasty
+This sub-project presently includes score transliterations of the official inscriptions of Nabopolassar and Neriglissar. The ‘Babylon 7 Scores’ project will also include the scores of the royal inscriptions of Nebuchadnezzar II and Nabonidus. Jamie Novotny adapted the scores contributed by Rocío Da Riva, which she had published in her The Inscriptions of Nabopolassar, Amel-Marduk and Neriglissar (SANER 3).
+
+Babylon 10: The Borsippa Inscription of Antiochus I Soter
+This sub-project includes an edition of the Borsippa Inscription of Antiochus I Soter (281-261 BC).
+Kathryn Stevens contributed the lemmatized edition; Jamie Novotny made minor stylistic changes to the edition and lemmatization.
+
+Babylon 2: The Inscriptions of the Second Dynasty of Isin
+This sub-project includes editions of the official inscriptions of the Second Dynasty of Isin (ca. 1157-1026 BC), texts published in Frame, RIMB 2 pp. 5-69. Grant Frame contributed the transliterations and translations and Alexa Bartelmus updated and lemmatized the editions.
+
+Babylon 3: The Inscriptions of the Second Dynasty of the Sealand
+This sub-project includes editions of the official inscriptions of the Second Dynasty of the Sealand (ca. 1025-1005 BC), texts published in Frame, RIMB 2 pp. 70-77. Grant Frame contributed the transliterations and translations and Alexa Bartelmus updated and lemmatized the editions.
+
+Babylon 4: The Inscriptions of the Bazi Dynasty
+This sub-project includes editions of the official inscriptions of the Bazi Dynasty (ca. 1004-985 BC), texts published in Frame, RIMB 2 pp. 78-86. Grant Frame contributed the transliterations and translations and Alexa Bartelmus updated and lemmatized the editions.
+
+Babylon 5: The Inscriptions of the Elamite Dynasty
+This sub-project includes editions of the official inscriptions of the Elamite Dynasty (ca. 984-979 BC), texts published in Frame, RIMB 2 pp. 87-89. Grant Frame contributed the transliterations and translations and Alexa Bartelmus updated and lemmatized the editions.
+
+Babylon 6: The Inscriptions of the Period of the Uncertain Dynasties
+This sub-project includes editions of the official inscriptions of the the Period of the Uncertain Dynasties "Uncertain Dynasties" (978-626 BC), texts published in Frame, RIMB 2 pp. 5-69 and Leichty, RINAP 4. Grant Frame and Erle Leichty contributed the transliterations and translations and Alexa Bartelmus and Jamie Novotny updated and lemmatized the editions.
+
+Babylon 7: The Inscriptions of the Neo-Babylonian Dynasty
+This sub-project presently includes editions of some of the official inscriptions of the Neo-Babylonian Dynasty (625-539 BC), texts of Nabopolassar, Amēl-Marduk, Neriglissar, and Nabonidus published by Da Riva and Schaudig. The ‘Babylon 7’ project will also include the inscriptions of Nebuchadnezzar II. Frauke Weiershäuser and Jamie Novotny adapted the editions of Da Riva and Schaudig, as well as lemmatized the inscriptions. In addition, Alexa Bartelmus prepared some of the informational pages.
+
+Babylon 8: The Inscriptions of Cyrus II and His Successors
+This sub-project presently includes editions of three of Akkadian inscriptions of the Persian ruler Cyrus II (559-530 BC). The ‘Babylon 8’ project will eventually include other Akkadian, Elamite, and Old Persian inscriptions of Cyrus II and his successors. Alexa Bartelmus and Jamie Novotny adapted the editions from I. Finkel, The Cyrus Cylinder. The King of Persia's Proclamation from Ancient Babylon and H. Schaudig, Die Inschriften Nabonids von Babylon und Kyros' des Großen.
+
+Sources: Sources for Inscriptions of the Rulers of Babylonia
+This sub-project presently includes object transliterations of the inscriptions of Nabopolassar, Amēl-Marduk, and Neriglissar. The ‘Sources’ project intends to include the transliterations of all of the objects inscribed with inscriptions from the Second Dynasty of Isin to the Neo-Babylonian Dynasty (1157-539 BC).
+
+RĪM-ANUM: THE HOUSE OF PRISONERS
+
+Rīm-Anum, king of Uruk (ca. 1741–1739 BC) revolted against Samsuiluna of Babylon, son of Hammurapi, and enjoyed a short-lived independence. The archive edited in this project derives from the house of prisoners (bīt asiri) that kept the prisoners of war. The editions and translations were prepared by Andrea Seri and accompanies her book "The House of Prisoners" (2013).
+
+RINAP: ROYAL INSCRIPTIONS OF THE NEO-ASSYRIAN PERIOD
+
+Presents fully searchable, annotated editions of the royal inscriptions of Neo-Assyrian kings Tiglath-pileser III (744-727 BC), Shalmaneser V (726-722 BC), Sennacherib (704-681 BC), Esarhaddon (680-669 BC), Ashurbanipal (668-631 BC), Aššur-etel-ilāni (630-627 BC), and Sîn-šarra-iškun (626-612 BC). Directed by Grant Frame at the University of Pennsylvania and funded by the National Endowment for the Humanities.
+
+RINAP 1: Tiglath-pileser III and Shalmaneser V
+The official inscriptions of Tiglath-pileser III (744-727 BC) and Shalmaneser V (726-722 BC), kings of Assyria, edited by Hayim Tadmor and Shigeo Yamada.
+
+RINAP 2: Sargon II
+The official inscriptions of the Assyrian king Sargon II (721–705 BC), edited by Grant Frame.
+
+RINAP 3: Sennacherib
+The official inscriptions of Sennacherib (704-681 BC), king of Assyria, edited by A. Kirk Grayson and Jamie Novotny.
+
+RINAP 4: Esarhaddon
+The official inscriptions of Esarhaddon, king of Assyria (680-669 BC), edited by Erle Leichty.
+
+RINAP 5: Ashurbanipal and Successors
+The official inscriptions of the Assyrian kings Ashurbanipal (668–ca. 631 BC), Aššur-etel-ilāni (ca. 631–627/626 BC), and Sîn-šarra-iškun (627/626–612 BC), edited by Jamie Novotny, Joshua Jeffers, and Grant Frame.
+
+RINAP Scores
+This sub-project of RINAP Online includes 111 score transliterations published by the RINAP Project (2011-20).
+
+RINAP Sources
+This sub-project of RINAP Online includes transliterations of the available sources of the editions published by the RINAP Project (2011-15).
+
+SAAO: STATE ARCHIVES OF ASSYRIA ONLINE
+
+The online counterpart to the State Archives of Assyria series, released with the kind permission of The Neo-Assyrian Text Corpus Project and its director Professor Simo Parpola. Associated portal sites include Knowledge and Power and Assyrian Empire Builders.
+
+Assyrian Empire Builders
+Presents the correspondence between Sargon II, king of Assyria (721-705 BC), and his governors and magnates and provides resources to support their use in undergraduate teaching.
+This website was created as part of the research project "Mechanisms of communication in an ancient empire: the correspondence between the king of Assyria and his magnates in the 8th century BC", funded by the UK's Arts and Humanities Research Council, 2008-13. AEBp is now part of the LMU-Munich based Munich Open-access Cuneiform Corpus Initiative (MOCCI), headed by Karen Radner and Jamie Novotny.
+
+Knowledge and Power
+Presents Neo-Assyrian scholars' letters, queries, and reports to their kings in seventh-century Nineveh and provides resources to support their use in undergraduate teaching.
+Directed by Karen Radner at University College London and Eleanor Robson at the University of Cambridge; funded by the UK Higher Education Academy, 2007-10.
+
+SAAo/SAA01: The Correspondence of Sargon II, Part I: Letters from Assyria and the West
+The text editions from the book S. Parpola, The Correspondence of Sargon II, Part I: Letters from Assyria and the West (State Archives of Assyria, 1), 1987 (2015 reprint).
+
+SAAo/SAA02: Neo-Assyrian Treaties and Loyalty Oaths
+The text editions from the book S. Parpola and K. Watanabe, Neo-Assyrian Treaties and Loyalty Oaths (State Archives of Assyria, 2), 1988 (reprint 2014).
+
+SAAo/SAA03: Court Poetry and Literary Miscellanea
+The text editions from the book A. Livingstone, Court Poetry and Literary Miscellanea (State Archives of Assyria, 3), 1989 (2014 reprint).
+
+SAAo/SAA04: Queries to the Sungod: Divination and Politics in Sargonid Assyria
+The text editions from the book I. Starr, Queries to the Sungod: Divination and Politics in Sargonid Assyria (State Archives of Assyria, 4), 1990.
+
+SAAo/SAA05: The Correspondence of Sargon II, Part II: Letters from the Northern and Northeastern Provinces
+The text editions from the book G. B. Lanfranchi and S. Parpola, The Correspondence of Sargon II, Part II: Letters from the Northern and Northeastern Provinces (State Archives of Assyria, 5), 1990 (2014 reprint).
+
+SAAo/SAA06: Legal Transactions of the Royal Court of Nineveh, Part I: Tiglath-Pileser III through Esarhaddon
+The text editions from the book T. Kwasman and S. Parpola, Legal Transactions of the Royal Court of Nineveh, Part I: Tiglath-Pileser III through Esarhaddon (State Archives of Assyria, 6), 1991.
+
+SAAo/SAA07: Imperial Administrative Records, Part I: Palace and Temple Administration
+The text editions from the book F. M. Fales and J. N. Postgate, Imperial Administrative Records, Part I: Palace and Temple Administration (State Archives of Assyria, 7), 1992 (2014 reprint).
+
+SAAo/SAA08: Astrological Reports to Assyrian Kings
+The text editions from the book H. Hunger, Astrological Reports to Assyrian Kings (State Archives of Assyria, 8), 1992 (2014 reprint).
+
+SAAo/SAA09: Assyrian Prophecies
+The text editions from the book S. Parpola, Assyrian Prophecies (State Archives of Assyria, 9), 1997.
+
+SAAo/SAA10: Letters from Assyrian and Babylonian Scholars
+The text editions from the book S. Parpola, Letters from Assyrian and Babylonian Scholars (State Archives of Assyria, 10), 1993 (2014 reprint).
+
+SAAo/SAA11: Imperial Administrative Records, Part II: Provincial and Militar Administration
+The text editions from the book F. M. Fales and J. N. Postgate, Imperial Administrative Records, Part II: Provincial and Military Administration (State Archives of Assyria, 11), 1995.
+
+SAAo/SAA12: Grants, Decres and Gifts of the Neo-Assyrian Period
+The text editions from the book L. Kataja and R. Whiting, Grants, Decrees and Gifts of the Neo-Assyrian Period (State Archives of Assyria, 12), 1995.
+
+SAAo/SAA13: Letters from Assyrian and Babylonian Priests to Kings Esarhaddon and Assurbanipal
+The text editions from the book S. W. Cole and P. Machinist, Letters from Assyrian and Babylonian Priests to Kings Esarhaddon and Assurbanipal (State Archives of Assyria, 13), 1998 (reprint 2014).
+
+SAAo/SAA14: Legal Transactions of the Royal Court of Nineveh, Part II: Assurbanipal Through Sin-šarru-iškun
+The text editions from the book R. Mattila, Legal Transactions of the Royal Court of Nineveh, Part II: Assurbanipal Through Sin-šarru-iškun (State Archives of Assyria, 14), 2002.
+
+SAAo/SAA15: The Correspondence of Sargon II, Part III: Letters from Babylonia and the Eastern Provinces
+The text editions from the book A. Fuchs and S. Parpola, The Correspondence of Sargon II, Part III: Letters from Babylonia and the Eastern Provinces (State Archives of Assyria, 15), 2001.
+
+SAAo/SAA16: The Political Correspondence of Esarhaddon
+The text editions from the book M. Luukko and G. Van Buylaere, The Political Correspondence of Esarhaddon (State Archives of Assyria, 16), 2002.
+
+SAAo/SAA17: The Neo-Babylonian Correspondence of Sargon and Sennacherib
+The text editions from the book M. Dietrich, The Neo-Babylonian Correspondence of Sargon and Sennacherib (State Archives of Assyria, 17), 2003.
+
+SAAo/SAA18: The Babylonian Correspondence of Esarhaddon and Letters to Assurbanipal and Sin-šarru-iškun from Northern and Central Babylonia
+The text editions from the book F. S. Reynolds, The Babylonian Correspondence of Esarhaddon and Letters to Assurbanipal and Sin-šarru-iškun from Northern and Central Babylonia (State Archives of Assyria, 18), 2003.
+
+SAAo/SAA19: The Correspondence of Tiglath-Pileser III and Sargon II from Calah/Nimrud
+The text editions from the book Mikko Luukko, The Correspondence of Tiglath-Pileser III and Sargon II from Calah/Nimrud (State Archives of Assyria, 19), 2013.
+
+SAAo/SAA20: Assyrian Royal Rituals and Cultic Texts
+The text editions from the book Simo Parpola, Assyrian Royal Rituals and Cultic Texts (State Archives of Assyria, 20), 2017.
+
+SAAo/SAA21: The Correspondence of Assurbanipal, Part I: Letters from Assyria, Babylonia, and Vassal States
+The text editions from the book Simo Parpola, The Correspondence of Assurbanipal, Part I: Letters from Assyria, Babylonia, and Vassal States (State Archives of Assyria, 21), 2018.
+
+SAAo/SAAS2: SAAo/Assyrian Eponym List
+The text editions and composite translation from the book A. Millard, The Eponyms of the Assyrian Empire, 910-612 BC (State Archives of Assyria Studies 2), 1994 (2014 reprint).
+
+SUHU: THE INSCRIPTIONS OF SUHU ONLINE
+
+This project presents annotated editions of the officially commissioned texts of the extant, first-millennium-BC inscriptions of the rulers of Suhu, texts published in Frame, RIMB 2 pp. 275-331. The open-access transliterations and translations were made available through the kind permission of Grant Frame and with funding provided by LMU Munich and the Alexander von Humboldt Foundation. Suhu online is based at LMU Munich (Historisches Seminar, Alte Geschichte) and is managed by Jamie Novotny and Karen Radner. Alexa Bartelmus and Grant Frame are the primary content contributors.
+
+TCMA: TEXT CORPUS OF MIDDLE ASSYRIAN
+
+Portal offering editions of Middle Assyrian administrative documents and letters from Assur and other findspots in Northern Mesopotamia. Includes the Middle Assyrian Laws (MAL), Palace Edicts (MAPD), and various tablets written in the Assyrian tablet from the temple library at Assur. Directed by Jacob J. de Ridder.
+
+TSAE: TEXTUAL SOURCES OF THE ASSYRIAN EMPIRE
+
+TSAE, with its multi-project search engine, enables users to simultaneously search the translations, transliterations, and catalogues of multiple Oracc projects on which Neo-Assyrian texts are edited.
+The project is funded by LMU Munich and the Alexander von Humboldt Foundation. TSAE is managed by Jamie Novotny and Karen Radner.
+
+XCAT: THE X CATALOGUE
+
+Provides a global registry of cuneiform manuscripts, supplementary to CDLI.
+Managed by Eleanor Robson at the University of Cambridge.
