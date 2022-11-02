@@ -152,8 +152,6 @@ Anu_d,Šeruʾa_d,1
 Anu_d,Ištar_Nineveh_d,1
 Anu_d,Sennacherib_RN,1
 Anu_d,Ashurbanipal_RN,1
-Anunnaki_d,Ninŋešzidak_d,1
-Anunnaki_d,Ereškigal_d,1
 Anunnaki_d,Nusku_d,6
 Anunnaki_d,Nergal_d,7
 Anunnaki_d,Ea_d,6
@@ -176,7 +174,6 @@ Anzu_d,Ashurnasirpal_II_RN,3
 Anzu_d,Mullissu_d,1
 Anzu_d,Ištar_d,1
 Anzu_d,Shalmaneser_III_RN,1
-Asalluhi_d,Ningirim_d,2
 Asalluhi_d,Kusu_d,3
 Asalluhi_d,Kusibanda_d,1
 Asalluhi_d,Belet-ili_d,3
@@ -417,7 +414,6 @@ Belet-ekalli_d,Marduk_d,1
 Belet-ekalli_d,Šamaš_d,1
 Belet-ili_d,Kusu_d,9
 Belet-ili_d,Haya_d,6
-Belet-ili_d,Ningirim_d,2
 Belet-ili_d,Kakka_d,4
 Belet-ili_d,Damkina_d,4
 Belet-ili_d,Šakkan_d,2
@@ -519,7 +515,6 @@ Ea_d,Sin_d,33
 Ea_d,Madanu_d,6
 Ea_d,Asalluhi_d,4
 Ea_d,Kusu_d,5
-Ea_d,Ningirim_d,2
 Ea_d,Adad_d,22
 Ea_d,Ninurta_d,18
 Ea_d,Kakka_d,4
@@ -618,10 +613,6 @@ Enlil_d,Beltiya_d,1
 Enlil_d,Šamši-Adad_V_RN,2
 Enlil_d,Šala_d,1
 Enlil_d,Tiglath-pileser_III_RN,2
-Ereškigal_d,Anunnaki_d,1
-Ereškigal_d,Šeruʾa_d,1
-Ereškigal_d,Tašmetu_d,1
-Ereškigal_d,Nusku_d,1
 Erra_d,Nanna_d,2
 Erra_d,Nergal_d,5
 Erra_d,Ashurbanipal_RN,6
@@ -642,7 +633,6 @@ Esarhaddon_RN,Nanaya_d,9
 Esarhaddon_RN,Nergal_d,14
 Esarhaddon_RN,Nisaba_d,5
 Esarhaddon_RN,Ištar-Uruk_d,4
-Esarhaddon_RN,Iqbi-damiq_d,1
 Esarhaddon_RN,Ištar_Nineveh_d,9
 Esarhaddon_RN,Adad_d,16
 Esarhaddon_RN,Ištar_d,11
@@ -706,7 +696,6 @@ Haya_d,Sennacherib_RN,3
 Haya_d,Ninurta_d,1
 Haya_d,Aššur_d,1
 Igigi_d,Anunnaki_d,37
-Igigi_d,Ereškigal_d,1
 Igigi_d,Nusku_d,6
 Igigi_d,Nergal_d,7
 Igigi_d,Igigi_d,4
@@ -724,7 +713,6 @@ Igigi_d,Ištar_d,1
 Igigi_d,Sin_d,1
 Igigi_d,Šamaš_d,1
 Igigi_d,Ashurbanipal_RN,1
-Ištar-Aššuritu_d,Ereškigal_d,1
 Ištar-Aššuritu_d,Šimati_d,1
 Ištar-Aššuritu_d,Šarrat-eqi_d,1
 Ištar-Aššuritu_d,Kutatati_d,1
@@ -933,7 +921,6 @@ Kulla_d,Sennacherib_RN,1
 Kusibanda_d,Ninkura_d,3
 Kusibanda_d,Ninagal_d,1
 Kusibanda_d,Ashurbanipal_RN,6
-Kusu_d,Ningirim_d,2
 Kusu_d,Tišpak_d,2
 Kusu_d,Kusibanda_d,1
 Kusu_d,Zababa_d,1
@@ -1213,10 +1200,6 @@ Ningal_d,Sin_d,2
 Ningal_d,Enlil_d,2
 Ningal_d,Nergal_d,1
 Ningal_d,Sargon_II_RN,2
-Ningirim_d,Kusibanda_d,1
-Ningirim_d,Ninkura_d,1
-Ningirim_d,Ninagal_d,1
-Ningirim_d,Esarhaddon_RN,1
 Ninkura_d,Kusibanda_d,1
 Ninkura_d,Ninagal_d,1
 Ninkura_d,Ashurbanipal_RN,8
@@ -1676,7 +1659,6 @@ Zarpanitu_d,Šamaš_d,1
 Šamaš_d,Ištar_d,36
 Šamaš_d,Belet-ili_d,13
 Šamaš_d,Kusu_d,5
-Šamaš_d,Ningirim_d,2
 Šamaš_d,Ea_d,14
 Šamaš_d,Asalluhi_d,3
 Šamaš_d,Tašmetu_d,10
@@ -1690,7 +1672,6 @@ Zarpanitu_d,Šamaš_d,1
 Šamaš_d,Kittu_d,3
 Šamaš_d,Anu_d,9
 Šamaš_d,Adad-nerari_III_RN,6
-Šamaš_d,Ereškigal_d,1
 Šamaš_d,Antu_d,3
 Šamaš_d,Šala_d,3
 Šamaš_d,Sebettu_d,3
