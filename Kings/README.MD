@@ -32,4 +32,4 @@
 
 <b>Texts_KingsInWindow.tsv:</b> A list of 576 texts which contain at least one king and one deity in a window of 10 words, including some metadata. See also the more detailed explanation about the file Texts_Kings.tsv above.
 
-<b>WantedKingsDeities:</b> The names of the kings and deities whose co-occurrences were extracted from the file Texts_analyzed.
+<b>WantedKingsDeities:</b> The names of the kings and deities whose co-occurrences were extracted from the file Texts_Analyzed.
