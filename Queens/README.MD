@@ -2,7 +2,7 @@
 
 <b>Co-occurrences_Queens_Deities.csv:</b> A list of pairs of queens and deities with the number of times they co-occur in Texts_Queens_Deities.csv.
 
-<b>Frequencies_Deities_Q.tsv:</b> List of deities and their frequencies in Texts_Queens_Deities_forSNA.csv (includes only those cases when a deity is attested in the same semantic context with a queen).
+<b>Frequencies_Deities_Q.tsv:</b> Shows how many times each deity co-occurs with a queen in Texts_Queens_Deities.csv.
 
 <b>Genre_Queens.csv:</b> Genre distribution of the queen texts in Texts_Queens_Deities_forSNA.csv.
 
