@@ -4,7 +4,7 @@
 
 <b>Frequencies_Deities_Q.tsv:</b> Shows how many times each deity co-occurs with a queen in Texts_Queens_Deities.csv.
 
-<b>Genre_Queens.csv:</b> Genre distribution of the queen texts in Texts_Queens_Deities_forSNA.csv.
+<b>Genre_Queens.csv:</b> Genre distribution of the queen texts in Texts_Queens_Deities.csv.
 
 <b>Queens_gender.csv:</b> List showing the gender of the deities co-occurring with queens.
 
