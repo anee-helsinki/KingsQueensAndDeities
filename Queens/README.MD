@@ -1,4 +1,4 @@
-## Data used for creating networks between queens and deities
+## Data used for analyzing the co-occurrences of queens and deities
 
 <b>Co-occurrences_Queens_Deities.csv:</b> A list of pairs of queens and deities with the number of times they co-occur in Texts_Queens_Deities.csv.
 
