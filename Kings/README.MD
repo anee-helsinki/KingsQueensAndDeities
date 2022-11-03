@@ -8,6 +8,8 @@
 
 <b>Collocates_Kings.tsv:</b> The file produced with Pmizer (https://github.com/asahala/Pmizer). Shows the bigram frequences and PMI scores of co-occurring kings and deities.
 
+<b>Deities_Gender_Kings.csv:</b> List showing the gender of the deities co-occurring with kings. F = female, G = group of deities, M = male.
+
 <b>Duplicates:</b> A list of duplicate texts omitted from analysis. The duplicates were removed at the beginning of data processing. Thus some SAAo texts may have been omitted as duplicates although the duplicate we kept belonged to a project other than RINAP, RIAo, RIBo, and SAAo and was not included in our final dataset.
 
 <b>Frequencies_Deities_K:</b> List of all deities and their frequencies in the 576 texts which contain at least one king and one deity in a window of 10 words.
@@ -17,8 +19,6 @@
 <b>Frequencies_Words:</b> List of all words and their frequencies in the 576 texts which contain at least one king and one deity in a window of 10 words.
 
 <b>Genre_KingsTexts:</b> Genre distribution of the 576 texts which contain at least one king and one deity in a window of 10 words.
-
-<b>Kings_Gender.csv:</b> List showing the gender of the deities co-occurring with kings. F = female, G = group of deities, M = male.
 
 <b>RIAoKings:</b> List of the kings whose texts are analyzed from the RIAo project.
 
