@@ -10,3 +10,5 @@ This folder contains full versions of the tables that are published in a shorten
 
 <b>Table4.csv:</b> The divine co-occurrences of Pre-Sargonid and Sargonid kings.
 
+<b>Table5.csv:</b> The divine co-occurrences of Pre-Sargonid and Sargonid queens.
+
