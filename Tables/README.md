@@ -6,3 +6,5 @@ This folder contains full versions of the tables that are published in a shorten
 
 <b>Table1b_Freqs-of-Deities_7624Texts.csv:</b> Absolute and relative frequencies of deities attested across 7,624 Neo-Assyrian texts in Oracc.
 
+<b>Table3.csv:</b> The divine co-occurrences of Naqiʾa and Kings Sargon II through Ashurbanipal.
+
