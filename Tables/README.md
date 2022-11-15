@@ -12,3 +12,4 @@ This folder contains full versions of the tables that are published in a shorten
 
 <b>Table5.csv:</b> The divine co-occurrences of Pre-Sargonid and Sargonid queens.
 
+<b>Table6.csv:</b> The divine co-occurrences of Naqiʾa and other Neo-Assyrian queens.
