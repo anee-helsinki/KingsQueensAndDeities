@@ -8,5 +8,5 @@ This folder contains full versions of the tables that are published in a shorten
 
 <b>Table3.csv:</b> The divine co-occurrences of Naqiʾa and Kings Sargon II through Ashurbanipal.
 
-<b>Table4.csv:</b> The divine affiliations of Pre-Sargonid and Sargonid kings.
+<b>Table4.csv:</b> The divine co-occurrences of Pre-Sargonid and Sargonid kings.
 
