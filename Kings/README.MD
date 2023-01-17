@@ -6,7 +6,7 @@
 
 <b>Collocates_Kings.csv:</b> The co-occurrences of kings and deities, including the bigram frequencies extracted from the Collocates_Kings.tsv file.
 
-<b>Collocates_Kings.tsv:</b> The file produced with Pmizer (https://github.com/asahala/Pmizer). Shows the bigram frequences and PMI scores of co-occurring kings and deities.
+<b>Collocates_Kings.tsv:</b> The file produced with Pmizer (https://github.com/asahala/Pmizer). We analyzed the file Texts_Analyzed consisting of 575 texts which contain at least one king and one deity in a window of 10 words. Collocates_Kings.tsv shows the bigram frequences and PMI scores of co-occurring kings and deities.
 
 <b>Deities_Gender_Kings.csv:</b> List showing the gender of the deities co-occurring with kings. F = female, G = group of deities, M = male.
 
