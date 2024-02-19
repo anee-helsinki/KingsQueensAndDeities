@@ -12,6 +12,8 @@
 
 <b>Duplicates:</b> A list of duplicate texts omitted from analysis. The duplicates were removed at the beginning of data processing. Thus some SAAo texts may have been omitted as duplicates although the duplicate we kept belonged to a project other than RINAP, RIAo, RIBo, and SAAo and was not included in our final dataset.
 
+<b>First-person_substitutions.txt:</b> The rules for substituting the name of a king for certain first-person pronouns, verbal forms, and words having first-person endings in Neo-Assyrian royal inscriptions (RIAo, RIBo, and RINAP).
+
 <b>Frequencies_Deities_K:</b> List of all deities and their frequencies in the 575 texts which contain at least one king and one deity in a window of 10 words.
 
 <b>Frequencies_Kings:</b> List of all kings and their frequencies in the 575 texts which contain at least one king and one deity in a window of 10 words.
