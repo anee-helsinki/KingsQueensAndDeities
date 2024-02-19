@@ -1,4 +1,4 @@
-The rules for substituting the name of the king for certain first-person pronouns, verbal forms, and words having first-person endings in Neo-Assyrian royal inscriptions (RIAo, RIBo, and RINAP).
+The rules for substituting the name of a king for certain first-person pronouns, verbal forms, and words having first-person endings in Neo-Assyrian royal inscriptions (RIAo, RIBo, and RINAP).
 
 Verbs
 - epos: V, transcription starting with "a"
