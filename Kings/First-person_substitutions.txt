@@ -1,0 +1,17 @@
+The rules for substituting the name of the king for certain first-person pronouns, verbal forms, and words having first-person endings in Neo-Assyrian royal inscriptions (RIAo, RIBo, and RINAP).
+
+Verbs
+- epos: V, transcription starting with "a"
+- wclass: V, transliteration ending with "an-ni" 
+ 
+Statives
+- wclass: AJ or N, transcription ending with "āku", "āk", or "âku"
+ 
+Pronouns
+- lemmas "anāku", "yâti", "yâši", "yāši", "yâšim", "yû", and "yāʾu"
+- wclass: N, transcription ending with "ya"
+
+
+NOTES
+- First and third person singular forms of verbs are identical in the D and Š stems. The differentiation could be done manually based on the context, but this is not doable because RINAP alone has 3,419 attestations of verbal forms starting with u-.
+- Pronominal suffix -ī cannot be used automatically because it also marks plurals; the same applies to pronominal suffixes -a, -ni, -anni because many dictionary forms of words end in these letters.
