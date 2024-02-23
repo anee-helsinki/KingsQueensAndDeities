@@ -1,6 +1,6 @@
 # Neo-Assyrian Imperial Religion Counts: A Quantitative Approach to the Affiliations of Kings and Queens with their Gods and Goddesses
 
-This repository contains the data used for and generated during our research for the article "Neo-Assyrian Imperial Religion Counts: A Quantitative Approach to the Affiliations of Kings and Queens with their Gods and Goddesses."
+This repository contains the data used for and generated during our research for the article "Neo-Assyrian Imperial Religion Counts: A Quantitative Approach to the Affiliations of Kings and Queens with their Gods and Goddesses" by Amy Rebecca Gansell, Tero Alstola, Heidi Jauhiainen, and Saana Svärd, published in the Journal of Ancient Near Eastern Religions.
 
 In the article, we study the relationships between Neo-Assyrian deities, kings, and queens. Our text data on kings comes from the Open Richly Annotated Cuneiform Corpus (Oracc). After preprocessing our dataset, we analyzed 575 texts in which at least one king and one deity co-occur within a window of ten words. These texts come from the Oracc projects RINAP, RIAo, RIBo, and SAAo. The connections between queens and deities were collected manually.
 
